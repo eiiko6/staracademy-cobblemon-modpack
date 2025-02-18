@@ -19221,11 +19221,6 @@ hash = "771fb250cb35bf5f8be92bedfecf8090955b1e2507f82f351bb84a33add0e564"
 metafile = true
 
 [[files]]
-file = "mods/myths-and-legends-cobblemon-addon.pw.toml"
-hash = "616a6df48e4533ba07b39c6dd8d05716be4b011675daf027d1b0fccf20e34923"
-metafile = true
-
-[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "cb38b82b931ae3c33bf9c21ad0934fcebaebcfe065838ade56a0661e283ee7d6"
 metafile = true
