@@ -19106,11 +19106,6 @@ hash = "2c1bac5d5bc9061449e91525e3564883743273cbe2eade645a2a70e8c38a9927"
 metafile = true
 
 [[files]]
-file = "mods/improved-pillager-outpost.pw.toml"
-hash = "cb96d8ce030df9c38bceab91eabc9ddd00417bdf01d5751a664af6ed7a09f58e"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "7e0aa0482e5ffef1c3a1d533813cd734db0b6d4ace1f83dfbaab63372236d823"
 metafile = true
