@@ -19416,11 +19416,6 @@ hash = "980020b4e7ff57b13a25aae37b99921e5bd1237cf064549df8f284ea0a8f0243"
 metafile = true
 
 [[files]]
-file = "mods/the-open-sauce-toast-killer.pw.toml"
-hash = "110d58fda49184f8aec979a24d5cad49df27fc9c5de31c3208cb1e6627767cc6"
-metafile = true
-
-[[files]]
 file = "mods/toms-storage-fabric.pw.toml"
 hash = "87aae6d18fc180e3fd55c838601a38f0eb00b458db2187472dd3f88c9511e299"
 metafile = true
