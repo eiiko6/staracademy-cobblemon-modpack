@@ -19436,11 +19436,6 @@ hash = "87aae6d18fc180e3fd55c838601a38f0eb00b458db2187472dd3f88c9511e299"
 metafile = true
 
 [[files]]
-file = "mods/towers-of-the-wild-modded.pw.toml"
-hash = "aaf42d9bcffd056c2c3cc12d476687b950b140215b438e96ffe09ab94dbda9d3"
-metafile = true
-
-[[files]]
 file = "mods/travelers-titles-fabric.pw.toml"
 hash = "801431918ee26ff945d3728f4fd6f124ef7944760a61194b3d0898379434ec28"
 metafile = true
