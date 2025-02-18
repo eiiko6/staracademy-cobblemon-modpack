@@ -1,0 +1,13 @@
+name = "Loot Beams Up"
+filename = "lootbeams-3.1.1-mc1.20-.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3fb226251c22746a1242590db455a1fac5729e0a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6002393
+project-id = 1161712

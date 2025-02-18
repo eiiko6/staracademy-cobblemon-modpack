@@ -1,0 +1,13 @@
+name = "El and L's Dyes"
+filename = "mint-1.0.5+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91d0bb0764005956aadb2ef3409871e755c5d28c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6010968
+project-id = 1122454

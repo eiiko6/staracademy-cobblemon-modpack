@@ -1,0 +1,13 @@
+name = "Hot Kettles"
+filename = "hotkettles-fabric-1.0.0+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e64777833e7988234a451e8285956b80e0a6f741"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5958734
+project-id = 1148583

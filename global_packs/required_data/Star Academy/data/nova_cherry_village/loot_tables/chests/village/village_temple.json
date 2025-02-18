@@ -1,0 +1,132 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "name": "minecraft:numismatic/bronze_tier1"
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 1.0,
+          "min": 1.0
+        }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "weight": 1,
+          "name": "minecraft:cobblemon/cobblefood_loot_tier1"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "minecraft:air"
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 1.0,
+          "min": 1.0
+        }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "weight": 1,
+          "name": "minecraft:cobblemon/pokeblocks_tier1"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 30,
+          "name": "minecraft:air"
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 1.0,
+          "min": 1.0
+        }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "weight": 1,
+          "name": "minecraft:cobblemon/nature_changer"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 100,
+          "name": "minecraft:air"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "name": "minecraft:cobblemon/basic_loot",
+          "weight": 10
+        },
+        {
+          "type": "loot_table",
+          "name": "minecraft:cobblemon/apricorn_loot",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:potion",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 3.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:super_potion"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 3.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "cobblemon:vivichoke_seeds",
+          "weight": 5
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 3.0,
+        "min": 1.0
+      }
+    }
+  ],
+  "random_sequence": "minecraft:chests/village/village_temple"
+}

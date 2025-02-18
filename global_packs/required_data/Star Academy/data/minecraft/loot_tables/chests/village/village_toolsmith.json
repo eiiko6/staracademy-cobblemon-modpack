@@ -1,0 +1,162 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "name": "minecraft:numismatic/bronze_tier2"
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 1.0,
+          "min": 1.0
+        }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "weight": 1,
+          "name": "minecraft:cobblemon/cobblefood_loot_tier2"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 8,
+          "name": "minecraft:air"
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 1.0,
+          "min": 1.0
+        }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "weight": 1,
+          "name": "minecraft:cobblemon/mythsandlegends"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1000,
+          "name": "minecraft:air"
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 1.0,
+          "min": 1.0
+        }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "weight": 1,
+          "name": "minecraft:cobblemon/pokeblocks_tier2"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "minecraft:air"
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 1.0,
+          "min": 1.0
+        }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "weight": 1,
+          "name": "minecraft:cobblemon/iv_add_tier1"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "minecraft:air"
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 1.0,
+          "min": 1.0
+        }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "weight": 1,
+          "name": "minecraft:cobblemon/nature_changer"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "minecraft:air"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "name": "minecraft:cobblemon/basic_loot",
+          "weight": 10
+        },
+        {
+          "type": "loot_table",
+          "name": "minecraft:cobblemon/apricorn_loot",
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 3.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "cobblemon:potion",
+          "weight": 2
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 3.0,
+        "min": 1.0
+      }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "name": "minecraft:cobblemon/basic_loot"
+        }
+      ],
+      "rolls": 3.0
+    }
+  ],
+  "random_sequence": "minecraft:chests/village/village_toolsmith"
+}

@@ -1,0 +1,606 @@
+{
+  "evenmoreinstruments.keymaps.instrument_type_modifier": {
+    "comment": "evenmoreinstruments.keymaps.instrument_type_modifier",
+    "key": "key.keyboard.right.alt"
+  },
+  "evenmoreinstruments.keymaps.record": {
+    "comment": "evenmoreinstruments.keymaps.record",
+    "key": "key.keyboard.grave.accent"
+  },
+  "genshinstrument.keymaps.transpose_down_modifier": {
+    "comment": "genshinstrument.keymaps.transpose_down_modifier",
+    "key": "key.keyboard.left.alt"
+  },
+  "genshinstrument.keymaps.transpose_up_modifier": {
+    "comment": "genshinstrument.keymaps.transpose_up_modifier",
+    "key": "key.keyboard.right.alt"
+  },
+  "iris.keybind.reload": {
+    "comment": "iris.keybind.reload",
+    "key": "key.keyboard.unknown"
+  },
+  "iris.keybind.shaderPackSelection": {
+    "comment": "iris.keybind.shaderPackSelection",
+    "key": "key.keyboard.unknown"
+  },
+  "iris.keybind.toggleShaders": {
+    "comment": "iris.keybind.toggleShaders",
+    "key": "key.keyboard.unknown"
+  },
+  "iris.keybind.wireframe": {
+    "comment": "iris.keybind.wireframe",
+    "key": "key.keyboard.unknown"
+  },
+  "key.advancements": {
+    "comment": "Advancements",
+    "key": "key.keyboard.l"
+  },
+  "key.attack": {
+    "comment": "Attack/Destroy",
+    "key": "key.mouse.left"
+  },
+  "key.back": {
+    "comment": "Walk Backwards",
+    "key": "key.keyboard.s"
+  },
+  "key.boosted-brightness.lower": {
+    "comment": "key.boosted-brightness.lower",
+    "key": "key.keyboard.unknown"
+  },
+  "key.boosted-brightness.next": {
+    "comment": "key.boosted-brightness.next",
+    "key": "key.keyboard.unknown"
+  },
+  "key.boosted-brightness.raise": {
+    "comment": "key.boosted-brightness.raise",
+    "key": "key.keyboard.unknown"
+  },
+  "key.boosted-brightness.select1": {
+    "comment": "key.boosted-brightness.select1",
+    "key": "key.keyboard.unknown"
+  },
+  "key.boosted-brightness.select2": {
+    "comment": "key.boosted-brightness.select2",
+    "key": "key.keyboard.unknown"
+  },
+  "key.boosted-brightness.select3": {
+    "comment": "key.boosted-brightness.select3",
+    "key": "key.keyboard.unknown"
+  },
+  "key.boosted-brightness.select4": {
+    "comment": "key.boosted-brightness.select4",
+    "key": "key.keyboard.unknown"
+  },
+  "key.boosted-brightness.select5": {
+    "comment": "key.boosted-brightness.select5",
+    "key": "key.keyboard.unknown"
+  },
+  "key.carry.desc": {
+    "comment": "key.carry.desc",
+    "key": "key.keyboard.left.shift"
+  },
+  "key.chat": {
+    "comment": "Open Chat",
+    "key": "key.keyboard.t"
+  },
+  "key.cobblemon.downshiftparty": {
+    "comment": "key.cobblemon.downshiftparty",
+    "key": "key.keyboard.down"
+  },
+  "key.cobblemon.hideparty": {
+    "comment": "key.cobblemon.hideparty",
+    "key": "key.keyboard.o"
+  },
+  "key.cobblemon.summary": {
+    "comment": "key.cobblemon.summary",
+    "key": "key.keyboard.c"
+  },
+  "key.cobblemon.throwpartypokemon": {
+    "comment": "key.cobblemon.throwpartypokemon",
+    "key": "key.keyboard.x"
+  },
+  "key.cobblemon.upshiftparty": {
+    "comment": "key.cobblemon.upshiftparty",
+    "key": "key.keyboard.up"
+  },
+  "key.cobblemonrider.pokemon_dismount": {
+    "comment": "key.cobblemonrider.pokemon_dismount",
+    "key": "key.keyboard.v"
+  },
+  "key.cobblemonrider.pokemon_mount_entities": {
+    "comment": "key.cobblemonrider.pokemon_mount_entities",
+    "key": "key.keyboard.left.alt"
+  },
+  "key.cobblenav.decrease_bucket": {
+    "comment": "key.cobblenav.decrease_bucket",
+    "key": "key.keyboard.unknown"
+  },
+  "key.cobblenav.increase_bucket": {
+    "comment": "key.cobblenav.increase_bucket",
+    "key": "key.keyboard.unknown"
+  },
+  "key.cobblenav.open_location": {
+    "comment": "key.cobblenav.open_location",
+    "key": "key.keyboard.unknown"
+  },
+  "key.cobblenav.open_pokenav": {
+    "comment": "key.cobblenav.open_pokenav",
+    "key": "key.keyboard.u"
+  },
+  "key.command": {
+    "comment": "Open Command",
+    "key": "key.keyboard.slash"
+  },
+  "key.craftingtweaks.balance": {
+    "comment": "key.craftingtweaks.balance",
+    "key": "key.keyboard.unknown"
+  },
+  "key.craftingtweaks.clear": {
+    "comment": "key.craftingtweaks.clear",
+    "key": "key.keyboard.unknown"
+  },
+  "key.craftingtweaks.compress_all": {
+    "comment": "key.craftingtweaks.compress_all",
+    "key": "key.keyboard.unknown"
+  },
+  "key.craftingtweaks.compress_one": {
+    "comment": "key.craftingtweaks.compress_one",
+    "key": "key.keyboard.unknown"
+  },
+  "key.craftingtweaks.compress_stack": {
+    "comment": "key.craftingtweaks.compress_stack",
+    "key": "key.keyboard.unknown"
+  },
+  "key.craftingtweaks.decompress_all": {
+    "comment": "key.craftingtweaks.decompress_all",
+    "key": "key.keyboard.unknown"
+  },
+  "key.craftingtweaks.decompress_one": {
+    "comment": "key.craftingtweaks.decompress_one",
+    "key": "key.keyboard.unknown"
+  },
+  "key.craftingtweaks.decompress_stack": {
+    "comment": "key.craftingtweaks.decompress_stack",
+    "key": "key.keyboard.unknown"
+  },
+  "key.craftingtweaks.force_clear": {
+    "comment": "key.craftingtweaks.force_clear",
+    "key": "key.keyboard.unknown"
+  },
+  "key.craftingtweaks.refill_last_stack": {
+    "comment": "key.craftingtweaks.refill_last_stack",
+    "key": "key.keyboard.tab"
+  },
+  "key.craftingtweaks.rotate": {
+    "comment": "key.craftingtweaks.rotate",
+    "key": "key.keyboard.unknown"
+  },
+  "key.craftingtweaks.rotate_counter_clockwise": {
+    "comment": "key.craftingtweaks.rotate_counter_clockwise",
+    "key": "key.keyboard.unknown"
+  },
+  "key.craftingtweaks.spread": {
+    "comment": "key.craftingtweaks.spread",
+    "key": "key.keyboard.unknown"
+  },
+  "key.craftingtweaks.transfer_stack": {
+    "comment": "key.craftingtweaks.transfer_stack",
+    "key": "key.keyboard.unknown"
+  },
+  "key.crawl": {
+    "comment": "key.crawl",
+    "key": "key.keyboard.k"
+  },
+  "key.disable_voice_chat": {
+    "comment": "key.disable_voice_chat",
+    "key": "key.keyboard.h"
+  },
+  "key.drop": {
+    "comment": "Drop Selected Item",
+    "key": "key.keyboard.q"
+  },
+  "key.fabricskyboxes.toggle": {
+    "comment": "key.fabricskyboxes.toggle",
+    "key": "key.keyboard.unknown"
+  },
+  "key.fabricskyboxes.toggle.debug_hud": {
+    "comment": "key.fabricskyboxes.toggle.debug_hud",
+    "key": "key.keyboard.f12"
+  },
+  "key.findme.pull_one": {
+    "comment": "key.findme.pull_one",
+    "key": "key.keyboard.keypad.0"
+  },
+  "key.findme.pull_stack": {
+    "comment": "key.findme.pull_stack",
+    "key": "key.keyboard.keypad.1"
+  },
+  "key.findme.search": {
+    "comment": "key.findme.search",
+    "key": "key.keyboard.y"
+  },
+  "key.forward": {
+    "comment": "Walk Forwards",
+    "key": "key.keyboard.w"
+  },
+  "key.ftbchunks.add_waypoint": {
+    "comment": "key.ftbchunks.add_waypoint",
+    "key": "key.keyboard.unknown"
+  },
+  "key.ftbchunks.claim_manager": {
+    "comment": "key.ftbchunks.claim_manager",
+    "key": "key.keyboard.unknown"
+  },
+  "key.ftbchunks.map": {
+    "comment": "key.ftbchunks.map",
+    "key": "key.keyboard.unknown"
+  },
+  "key.ftbchunks.minimap.zoomIn": {
+    "comment": "key.ftbchunks.minimap.zoomIn",
+    "key": "key.keyboard.unknown"
+  },
+  "key.ftbchunks.minimap.zoomOut": {
+    "comment": "key.ftbchunks.minimap.zoomOut",
+    "key": "key.keyboard.unknown"
+  },
+  "key.ftbchunks.toggle_minimap": {
+    "comment": "key.ftbchunks.toggle_minimap",
+    "key": "key.keyboard.unknown"
+  },
+  "key.ftbchunks.waypoint_manager": {
+    "comment": "key.ftbchunks.waypoint_manager",
+    "key": "key.keyboard.unknown"
+  },
+  "key.ftbteams.open_gui": {
+    "comment": "key.ftbteams.open_gui",
+    "key": "key.keyboard.unknown"
+  },
+  "key.fullscreen": {
+    "comment": "Toggle Fullscreen",
+    "key": "key.keyboard.f11"
+  },
+  "key.hide_icons": {
+    "comment": "key.hide_icons",
+    "key": "key.keyboard.unknown"
+  },
+  "key.hotbar.1": {
+    "comment": "Hotbar Slot 1",
+    "key": "key.keyboard.1"
+  },
+  "key.hotbar.2": {
+    "comment": "Hotbar Slot 2",
+    "key": "key.keyboard.2"
+  },
+  "key.hotbar.3": {
+    "comment": "Hotbar Slot 3",
+    "key": "key.keyboard.3"
+  },
+  "key.hotbar.4": {
+    "comment": "Hotbar Slot 4",
+    "key": "key.keyboard.4"
+  },
+  "key.hotbar.5": {
+    "comment": "Hotbar Slot 5",
+    "key": "key.keyboard.5"
+  },
+  "key.hotbar.6": {
+    "comment": "Hotbar Slot 6",
+    "key": "key.keyboard.6"
+  },
+  "key.hotbar.7": {
+    "comment": "Hotbar Slot 7",
+    "key": "key.keyboard.7"
+  },
+  "key.hotbar.8": {
+    "comment": "Hotbar Slot 8",
+    "key": "key.keyboard.8"
+  },
+  "key.hotbar.9": {
+    "comment": "Hotbar Slot 9",
+    "key": "key.keyboard.9"
+  },
+  "key.inventory": {
+    "comment": "Open/Close Inventory",
+    "key": "key.keyboard.e"
+  },
+  "key.journeymap.create_waypoint": {
+    "comment": "key.journeymap.create_waypoint",
+    "key": "key.keyboard.unknown"
+  },
+  "key.journeymap.fullscreen.disable_buttons": {
+    "comment": "key.journeymap.fullscreen.disable_buttons",
+    "key": "key.keyboard.unknown"
+  },
+  "key.journeymap.fullscreen.east": {
+    "comment": "key.journeymap.fullscreen.east",
+    "key": "key.keyboard.right"
+  },
+  "key.journeymap.fullscreen.north": {
+    "comment": "key.journeymap.fullscreen.north",
+    "key": "key.keyboard.up"
+  },
+  "key.journeymap.fullscreen.south": {
+    "comment": "key.journeymap.fullscreen.south",
+    "key": "key.keyboard.down"
+  },
+  "key.journeymap.fullscreen.west": {
+    "comment": "key.journeymap.fullscreen.west",
+    "key": "key.keyboard.left"
+  },
+  "key.journeymap.fullscreen_chat_position": {
+    "comment": "key.journeymap.fullscreen_chat_position",
+    "key": "key.keyboard.c"
+  },
+  "key.journeymap.fullscreen_create_waypoint": {
+    "comment": "key.journeymap.fullscreen_create_waypoint",
+    "key": "key.keyboard.unknown"
+  },
+  "key.journeymap.fullscreen_options": {
+    "comment": "key.journeymap.fullscreen_options",
+    "key": "key.keyboard.o"
+  },
+  "key.journeymap.fullscreen_waypoints": {
+    "comment": "key.journeymap.fullscreen_waypoints",
+    "key": "key.keyboard.unknown"
+  },
+  "key.journeymap.map_toggle_alt": {
+    "comment": "key.journeymap.map_toggle_alt",
+    "key": "key.keyboard.m"
+  },
+  "key.journeymap.minimap_preset": {
+    "comment": "key.journeymap.minimap_preset",
+    "key": "key.keyboard.comma"
+  },
+  "key.journeymap.minimap_toggle_alt": {
+    "comment": "key.journeymap.minimap_toggle_alt",
+    "key": "key.keyboard.period"
+  },
+  "key.journeymap.minimap_type": {
+    "comment": "key.journeymap.minimap_type",
+    "key": "key.keyboard.left.end"
+  },
+  "key.journeymap.toggle_waypoints": {
+    "comment": "key.journeymap.toggle_waypoints",
+    "key": "key.keyboard.semicolon"
+  },
+  "key.journeymap.zoom_in": {
+    "comment": "key.journeymap.zoom_in",
+    "key": "key.keyboard.equal"
+  },
+  "key.journeymap.zoom_out": {
+    "comment": "key.journeymap.zoom_out",
+    "key": "key.keyboard.minus"
+  },
+  "key.jump": {
+    "comment": "Jump",
+    "key": "key.keyboard.space"
+  },
+  "key.left": {
+    "comment": "Strafe Left",
+    "key": "key.keyboard.a"
+  },
+  "key.loadToolbarActivator": {
+    "comment": "Load Hotbar Activator",
+    "key": "key.keyboard.unknown"
+  },
+  "key.modmenu.open_menu": {
+    "comment": "key.modmenu.open_menu",
+    "key": "key.keyboard.unknown"
+  },
+  "key.mousewheelie.all_of_kind_modifier": {
+    "comment": "key.mousewheelie.all_of_kind_modifier",
+    "key": "key.keyboard.left.control"
+  },
+  "key.mousewheelie.deposit_modifier": {
+    "comment": "key.mousewheelie.deposit_modifier",
+    "key": "key.keyboard.space"
+  },
+  "key.mousewheelie.drop_modifier": {
+    "comment": "key.mousewheelie.drop_modifier",
+    "key": "key.keyboard.left.alt"
+  },
+  "key.mousewheelie.open_config_screen": {
+    "comment": "key.mousewheelie.open_config_screen",
+    "key": "key.keyboard.unknown"
+  },
+  "key.mousewheelie.pick_tool": {
+    "comment": "key.mousewheelie.pick_tool",
+    "key": "key.keyboard.unknown"
+  },
+  "key.mousewheelie.restock_modifier": {
+    "comment": "key.mousewheelie.restock_modifier",
+    "key": "key.keyboard.space"
+  },
+  "key.mousewheelie.scroll_down": {
+    "comment": "key.mousewheelie.scroll_down",
+    "key": "key.keyboard.unknown"
+  },
+  "key.mousewheelie.scroll_up": {
+    "comment": "key.mousewheelie.scroll_up",
+    "key": "key.keyboard.unknown"
+  },
+  "key.mousewheelie.sort_inventory": {
+    "comment": "key.mousewheelie.sort_inventory",
+    "key": "key.mouse.middle"
+  },
+  "key.mousewheelie.whole_stack_modifier": {
+    "comment": "key.mousewheelie.whole_stack_modifier",
+    "key": "key.keyboard.left.shift"
+  },
+  "key.mute_microphone": {
+    "comment": "key.mute_microphone",
+    "key": "key.keyboard.j"
+  },
+  "key.pickItem": {
+    "comment": "Pick Block",
+    "key": "key.mouse.middle"
+  },
+  "key.playerlist": {
+    "comment": "List Players",
+    "key": "key.keyboard.tab"
+  },
+  "key.push_to_talk": {
+    "comment": "key.push_to_talk",
+    "key": "key.keyboard.g"
+  },
+  "key.right": {
+    "comment": "Strafe Right",
+    "key": "key.keyboard.d"
+  },
+  "key.saveToolbarActivator": {
+    "comment": "Save Hotbar Activator",
+    "key": "key.keyboard.unknown"
+  },
+  "key.screenshot": {
+    "comment": "Take Screenshot",
+    "key": "key.keyboard.f2"
+  },
+  "key.smoothCamera": {
+    "comment": "Toggle Cinematic Camera",
+    "key": "key.keyboard.unknown"
+  },
+  "key.sneak": {
+    "comment": "Sneak",
+    "key": "key.keyboard.left.shift"
+  },
+  "key.socialInteractions": {
+    "comment": "Social Interactions Screen",
+    "key": "key.keyboard.unknown"
+  },
+  "key.spectatorOutlines": {
+    "comment": "Highlight Players (Spectators)",
+    "key": "key.keyboard.unknown"
+  },
+  "key.sprint": {
+    "comment": "Sprint",
+    "key": "key.keyboard.left.control"
+  },
+  "key.swapOffhand": {
+    "comment": "Swap Item With Offhand",
+    "key": "key.keyboard.f"
+  },
+  "key.togglePerspective": {
+    "comment": "Toggle Perspective",
+    "key": "key.keyboard.f5"
+  },
+  "key.toms_storage.open_terminal": {
+    "comment": "key.toms_storage.open_terminal",
+    "key": "key.keyboard.i"
+  },
+  "key.use": {
+    "comment": "Use Item/Place Block",
+    "key": "key.mouse.right"
+  },
+  "key.veinmining.activate.desc": {
+    "comment": "key.veinmining.activate.desc",
+    "key": "key.keyboard.unknown"
+  },
+  "key.voice_chat": {
+    "comment": "key.voice_chat",
+    "key": "key.keyboard.backslash"
+  },
+  "key.voice_chat_adjust_volumes": {
+    "comment": "key.voice_chat_adjust_volumes",
+    "key": "key.keyboard.unknown"
+  },
+  "key.voice_chat_group": {
+    "comment": "key.voice_chat_group",
+    "key": "key.keyboard.p"
+  },
+  "key.voice_chat_settings": {
+    "comment": "key.voice_chat_settings",
+    "key": "key.keyboard.unknown"
+  },
+  "key.voice_chat_toggle_recording": {
+    "comment": "key.voice_chat_toggle_recording",
+    "key": "key.keyboard.unknown"
+  },
+  "key.waila.config": {
+    "comment": "key.waila.config",
+    "key": "key.keyboard.unknown"
+  },
+  "key.waila.show_overlay": {
+    "comment": "key.waila.show_overlay",
+    "key": "key.keyboard.unknown"
+  },
+  "key.waila.show_recipe_input": {
+    "comment": "key.waila.show_recipe_input",
+    "key": "key.keyboard.unknown"
+  },
+  "key.waila.show_recipe_output": {
+    "comment": "key.waila.show_recipe_output",
+    "key": "key.keyboard.unknown"
+  },
+  "key.waila.toggle_liquid": {
+    "comment": "key.waila.toggle_liquid",
+    "key": "key.keyboard.unknown"
+  },
+  "key.whisper": {
+    "comment": "key.whisper",
+    "key": "key.keyboard.unknown"
+  },
+  "keybind.sophisticatedbackpacks.inventory_interaction": {
+    "comment": "keybind.sophisticatedbackpacks.inventory_interaction",
+    "key": "key.keyboard.c"
+  },
+  "keybind.sophisticatedbackpacks.open_backpack": {
+    "comment": "keybind.sophisticatedbackpacks.open_backpack",
+    "key": "key.keyboard.b"
+  },
+  "keybind.sophisticatedbackpacks.sort": {
+    "comment": "keybind.sophisticatedbackpacks.sort",
+    "key": "key.mouse.middle"
+  },
+  "keybind.sophisticatedbackpacks.toggle_upgrade_1": {
+    "comment": "keybind.sophisticatedbackpacks.toggle_upgrade_1",
+    "key": "key.keyboard.unknown"
+  },
+  "keybind.sophisticatedbackpacks.toggle_upgrade_2": {
+    "comment": "keybind.sophisticatedbackpacks.toggle_upgrade_2",
+    "key": "key.keyboard.unknown"
+  },
+  "keybind.sophisticatedbackpacks.toggle_upgrade_3": {
+    "comment": "keybind.sophisticatedbackpacks.toggle_upgrade_3",
+    "key": "key.keyboard.unknown"
+  },
+  "keybind.sophisticatedbackpacks.toggle_upgrade_4": {
+    "comment": "keybind.sophisticatedbackpacks.toggle_upgrade_4",
+    "key": "key.keyboard.unknown"
+  },
+  "keybind.sophisticatedbackpacks.toggle_upgrade_5": {
+    "comment": "keybind.sophisticatedbackpacks.toggle_upgrade_5",
+    "key": "key.keyboard.unknown"
+  },
+  "keybind.sophisticatedbackpacks.tool_swap": {
+    "comment": "keybind.sophisticatedbackpacks.tool_swap",
+    "key": "key.keyboard.unknown"
+  },
+  "keybind.sophisticatedstorage.sort": {
+    "comment": "keybind.sophisticatedstorage.sort",
+    "key": "key.mouse.middle"
+  },
+  "lootbeams.keybindings.savePreset": {
+    "comment": "lootbeams.keybindings.savePreset",
+    "key": "key.keyboard.keypad.5"
+  },
+  "seamless_loading_screen.keybind.config": {
+    "comment": "seamless_loading_screen.keybind.config",
+    "key": "key.keyboard.unknown"
+  },
+  "zoomify.key.zoom": {
+    "comment": "zoomify.key.zoom",
+    "key": "key.keyboard.z"
+  },
+  "zoomify.key.zoom.in": {
+    "comment": "zoomify.key.zoom.in",
+    "key": "key.keyboard.unknown"
+  },
+  "zoomify.key.zoom.out": {
+    "comment": "zoomify.key.zoom.out",
+    "key": "key.keyboard.unknown"
+  },
+  "zoomify.key.zoom.secondary": {
+    "comment": "zoomify.key.zoom.secondary",
+    "key": "key.keyboard.f6"
+  }
+}

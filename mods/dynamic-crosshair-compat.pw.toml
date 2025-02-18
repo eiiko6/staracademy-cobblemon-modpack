@@ -1,0 +1,13 @@
+name = "Dynamic Crosshair Compat"
+filename = "dynamiccrosshaircompat-4.0+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "89ccb073b4047fe57528b899bebf589476a411c4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5945146
+project-id = 632420

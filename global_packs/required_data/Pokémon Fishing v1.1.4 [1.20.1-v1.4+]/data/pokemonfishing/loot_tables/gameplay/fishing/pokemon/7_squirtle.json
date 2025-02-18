@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:entity",
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:kelp",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:4150000,PokemonFishing:{PokemonID:7,Species:\"cobblemon:squirtle\",Max_Level:15}}"
+						},
+						{
+							"function": "minecraft:set_lore",
+							"lore": [
+								{
+									"text": "Squirtle got away...",
+									"color": "white",
+									"italic": false
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+  "replace": false,
+
+  "_comment": " This biome tag can specify the biome directly. Or specify another biome tag by starting with # ",
+  "values": [
+    "minecraft:ocean",
+	  "minecraft:deep_ocean",
+    "biomeswevegone:dead_sea",
+    "biomeswevegone:lush_stacks",
+    {
+      "id": "#forge:is_water/overworld",
+      "required": false
+    }
+  ]
+}

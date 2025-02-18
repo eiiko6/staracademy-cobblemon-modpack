@@ -1,0 +1,13 @@
+name = "Gravel's Extended Battles"
+filename = "gravels_extended_battles-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c4ab3985323e82df36d764ae15e67f09dc7adf92"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5516785
+project-id = 930317

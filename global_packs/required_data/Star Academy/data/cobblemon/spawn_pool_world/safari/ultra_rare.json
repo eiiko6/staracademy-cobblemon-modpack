@@ -1,0 +1,1350 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "happiny-1",
+            "pokemon": "happiny",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 6.0,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "chansey-1",
+            "pokemon": "chansey",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 3.0,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "blissey-1",
+            "pokemon": "blissey",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.0,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "ivysaur-1",
+            "pokemon": "ivysaur",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "charmeleon-1",
+            "pokemon": "charmeleon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "wartortle-1",
+            "pokemon": "wartortle",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "bayleef-1",
+            "pokemon": "bayleef",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "quilava-1",
+            "pokemon": "quilava",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "croconaw-1",
+            "pokemon": "croconaw",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "grovyle-1",
+            "pokemon": "grovyle",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "combusken-1",
+            "pokemon": "combusken",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "marshtomp-1",
+            "pokemon": "marshtomp",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "grotle-1",
+            "pokemon": "grotle",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "monferno-1",
+            "pokemon": "monferno",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "prinplup-1",
+            "pokemon": "prinplup",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "servine-1",
+            "pokemon": "servine",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "pignite-1",
+            "pokemon": "pignite",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "dewott-1",
+            "pokemon": "dewott",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "quilladin-1",
+            "pokemon": "quilladin",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "braixen-1",
+            "pokemon": "braixen",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "frogadier-1",
+            "pokemon": "frogadier",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "dartrix-1",
+            "pokemon": "dartrix",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "torracat-1",
+            "pokemon": "torracat",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "brionne-1",
+            "pokemon": "brionne",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "thwackey-1",
+            "pokemon": "thwackey",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "raboot-1",
+            "pokemon": "raboot",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "drizzile-1",
+            "pokemon": "drizzile",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "floragato-1",
+            "pokemon": "floragato",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "crocalor-1",
+            "pokemon": "crocalor",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "quaxwell-1",
+            "pokemon": "quaxwell",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "venusaur-1",
+            "pokemon": "venusaur",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "charizard-1",
+            "pokemon": "charizard",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "blastoise-1",
+            "pokemon": "blastoise",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "meganium-1",
+            "pokemon": "meganium",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "typhlosion-1",
+            "pokemon": "typhlosion",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "feraligatr-1",
+            "pokemon": "feraligatr",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "sceptile-1",
+            "pokemon": "sceptile",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "blaziken-1",
+            "pokemon": "blaziken",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "swampert-1",
+            "pokemon": "swampert",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "torterra-1",
+            "pokemon": "torterra",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "infernape-1",
+            "pokemon": "infernape",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "empoleon-1",
+            "pokemon": "empoleon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "serperior-1",
+            "pokemon": "serperior",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "emboar-1",
+            "pokemon": "emboar",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "samurott-1",
+            "pokemon": "samurott",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "chesnaught-1",
+            "pokemon": "chesnaught",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "delphox-1",
+            "pokemon": "delphox",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "greninja-1",
+            "pokemon": "greninja",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "decidueye-1",
+            "pokemon": "decidueye",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "incinceroar-1",
+            "pokemon": "incinceroar",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "primarina-1",
+            "pokemon": "primarina",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "rillaboom-1",
+            "pokemon": "rillaboom",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "cinderace-1",
+            "pokemon": "cinderace",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "inteleon-1",
+            "pokemon": "inteleon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "meowscarada-1",
+            "pokemon": "meowscarada",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "skeledirge-1",
+            "pokemon": "skeledirge",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "quaquaval-1",
+            "pokemon": "quaquaval",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "milotic-1",
+            "pokemon": "milotic",
+            "presets": [
+                "water_surface"
+            ],
+            "type": "pokemon",
+            "context": "surface",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "milotic-2",
+            "pokemon": "milotic",
+            "presets": [
+                "underwater"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "huntail-1",
+            "pokemon": "milotic",
+            "presets": [
+                "water_surface"
+            ],
+            "type": "pokemon",
+            "context": "surface",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "huntail-2",
+            "pokemon": "milotic",
+            "presets": [
+                "underwater"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "gorebyss-1",
+            "pokemon": "milotic",
+            "presets": [
+                "water_surface"
+            ],
+            "type": "pokemon",
+            "context": "surface",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "gorebyss-2",
+            "pokemon": "milotic",
+            "presets": [
+                "underwater"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "relicanth-1",
+            "pokemon": "milotic",
+            "presets": [
+                "water_surface"
+            ],
+            "type": "pokemon",
+            "context": "surface",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "relicanth-2",
+            "pokemon": "milotic",
+            "presets": [
+                "underwater"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "porygon-1",
+            "pokemon": "porygon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.6,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "dragonite-1",
+            "pokemon": "dragonite",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.16,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "tyranitar-1",
+            "pokemon": "tyranitar",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.16,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "metagross-1",
+            "pokemon": "metagross",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.16,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "garchomp-1",
+            "pokemon": "garchomp",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.16,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "hydreigon-1",
+            "pokemon": "hydreigon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.16,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "goodra-1",
+            "pokemon": "goodra",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.16,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "kommoo-1",
+            "pokemon": "kommoo",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.16,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "dragapult-1",
+            "pokemon": "dragapult",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.16,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "goodra-2",
+            "pokemon": "goodra hisuian",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "baxcalibur-1",
+            "pokemon": "baxcalibur",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "duraludon-1",
+            "pokemon": "duraludon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.16,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "haxorous-1",
+            "pokemon": "haxorous",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        },
+        {
+            "id": "ashgreninja",
+            "pokemon": "ashgreninja",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "1-1",
+            "weight": 0.05,
+            "condition": {
+                "biomes": [
+                    "solara_dimension:solara"
+                ]
+            }
+        }
+    ]
+}

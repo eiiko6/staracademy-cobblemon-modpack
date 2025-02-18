@@ -1,0 +1,13 @@
+name = "Boenk's Cobblemon Item Descriptions"
+filename = "Boenk's_Cobblemon_Item_Description_V1.5.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7cbf185651fc4af301319a6f320d89673828331"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5347790
+project-id = 1004222

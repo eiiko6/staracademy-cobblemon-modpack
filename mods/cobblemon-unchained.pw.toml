@@ -1,0 +1,13 @@
+name = "Cobblemon Unchained"
+filename = "cobblemon-unchained-1.5-fabric-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "50496396aebcf6571c60603e7e12ba3ef2fb1bdb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5350174
+project-id = 901476

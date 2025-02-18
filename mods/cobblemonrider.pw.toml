@@ -1,0 +1,13 @@
+name = "CobblemonRider"
+filename = "cobblemonridingfabric-1.2.6a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e9108285f95eb789bcd8ec4565f20e2ddb764997"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5796248
+project-id = 990998

@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:entity",
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:kelp",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:4150000,PokemonFishing:{PokemonID:816,Species:\"cobblemon:sobble\",Max_Level:15}}"
+						},
+						{
+							"function": "minecraft:set_lore",
+							"lore": [
+								{
+									"text": "Sobble got away...",
+									"color": "white",
+									"italic": false
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

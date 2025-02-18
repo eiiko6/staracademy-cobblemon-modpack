@@ -1,0 +1,13 @@
+name = "Cloud Boots (Forge/Fabric)"
+filename = "cloud-boots-1.20.1-fabric-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "71bf24514d8ce65fa74db5dbdb72d0be2dee2538"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4891360
+project-id = 291246

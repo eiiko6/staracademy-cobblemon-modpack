@@ -1,0 +1,13 @@
+name = "Muffin's Picnic"
+filename = "muffins_picnic-1.0.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "672b1a855e1fdddd20f97dd1f1385a40aa4db031"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5064690
+project-id = 967871

@@ -1,0 +1,24 @@
+{
+  "schema_version": "2",
+  "default_packs": [
+    "file/Boenk's_Cobblemon_Item_Description_V1.5.0.zip",
+    "file/Theone's Items Pack v0.8.zip",
+    "file/Cobblemon Interface v1.1.1.zip",
+    "file/Journeymap-Cobblemon3.01_1.20.1_MythicalNetwork.zip",
+    "file/EmbellishedStone-1.20.1-1.0.0.zip",
+    "file/VidyaPokeCriesCobblemon-V1.2.zip",
+    "file/EclecticTrove-1.20.1-1.3.0",
+    "file/Border-Makeover-Style-9",
+    "file/SmoothFont_1.20.zip",
+    "file/bopack",
+    "file/AllTheMons Release 1.8.2 V129",
+    "file/CobbleCafe",
+    "file/Missing Legends V1.2[No Genesect or Regi Resize]",
+    "file/Vivillon Pride Patterns v1.0",
+    "file/BattleBond [V1.4]",
+    "file/Star Academy"
+],
+  "default_overrides": {
+    "force_compatible": true
+  }
+}

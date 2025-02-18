@@ -1,0 +1,13 @@
+name = "Cobblemon - Yet Another Chance Booster"
+filename = "yetanotherchancebooster-fabric-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "337d090f5bd45cbc667b0b277e8d4c64afdbe70c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5610380
+project-id = 1079394

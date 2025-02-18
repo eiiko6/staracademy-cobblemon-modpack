@@ -1,0 +1,31 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:dark_forest",
+        "minecraft:old_growth_birch_forest",
+        "minecraft:windswept_forest",
+        "minecraft:taiga",
+        "minecraft:jungle",
+        "minecraft:bamboo_jungle",
+        "minecraft:plains",
+        "minecraft:badlands",
+        "biomeswevegone:crag_gardens",
+        "biomeswevegone:fragment_jungle",
+        "biomeswevegone:jacaranda_jungle",
+        "biomeswevegone:tropical_rainforest",
+        "biomeswevegone:allium_shrubland",
+        "biomeswevegone:amaranth_grassland",
+        "biomeswevegone:coconino_meadow",
+        "biomeswevegone:crimson_tundra",
+        "biomeswevegone:firecracker_chaparral",
+        "biomeswevegone:prairie",
+        "biomeswevegone:pumpkin_valley",
+        "biomeswevegone:rose_fields",
+        "biomeswevegone:temperate_grove",
+        "biomeswevegone:red_rock_valley",
+        "biomeswevegone:rugged_badlands",
+        "biomeswevegone:sierra_badlands",
+        "biomeswevegone:frosted_taiga",
+        "biomeswevegone:maple_taiga"
+    ]
+}

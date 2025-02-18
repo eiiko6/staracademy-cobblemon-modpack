@@ -1,0 +1,2 @@
+execute if score Compat_Vanilla fkob.options matches 1 if predicate fktool:biome/in_ocean run function fkob:loop
+execute if score Compat_Terralith fkob.options matches 1 if predicate fkob:compatibility/terralith_oceans run function fkob:loop

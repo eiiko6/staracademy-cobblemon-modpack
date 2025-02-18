@@ -1,0 +1,13 @@
+name = "Cobblemon Integrations"
+filename = "cobblemonintegrations-1.20.1-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f3ffcee29245404250ed7a07ce654c92e9185be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5760247
+project-id = 913400

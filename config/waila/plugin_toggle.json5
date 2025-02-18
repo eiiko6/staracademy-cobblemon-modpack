@@ -1,0 +1,14 @@
+{
+  "waila:core": true,
+  "waila:vanilla": true,
+  "waila:harvest": true,
+  "waila:extra": true,
+  "waila:quilt": true,
+  "waila:test": false,
+  "waystones:plugin": true,
+  "waystones:wthit": true,
+  "waila:fabric": true,
+  "biomeswevegone:plugin": true,
+  "cookingforblockheads:wthit": true,
+  "waila:team_reborn_energy": true
+}

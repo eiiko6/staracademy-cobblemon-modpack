@@ -1,0 +1,14 @@
+{
+  "type": "choice",
+  "keys": ["size"],
+  "default": "random",
+  "choices": [
+    "tiny",
+    "small",
+	"normal",
+    "large",
+    "giant"
+  ],
+  "isAspect": true,
+  "aspectFormat": "size-{{choice}}"
+}

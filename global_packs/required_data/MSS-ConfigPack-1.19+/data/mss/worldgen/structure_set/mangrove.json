@@ -1,0 +1,18 @@
+{
+  "structures":[
+    {
+      "structure": "mss:mangrove",
+      "weight": 1
+    }
+  ],
+  "placement": {
+
+    "type": "mss:advanced_random_spread",
+
+    "salt": 111136452,
+
+    "spacing": 55,
+
+    "separation": 0
+  }
+}

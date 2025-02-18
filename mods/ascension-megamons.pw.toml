@@ -1,0 +1,13 @@
+name = "Ascension Megamons (Cobblemon)"
+filename = "MegamonsFabric-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1d677521424644085db744a0c30d5673887324a3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5336647
+project-id = 971821

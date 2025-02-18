@@ -1,0 +1,46 @@
+/**
+ * mobfilter.json5
+ *
+ * This file controls the spawn filtering rules for mob-filter.  For details, see the docs at:
+ *
+ *    https://github.com/pcal43/mob-filter/blob/main/CONFIG.md
+ */
+
+{
+  "rules" : [
+    {
+      "name" : "no pokemon in academy spawn",
+      "what" : "DISALLOW_SPAWN",
+      "when" : {
+          "category" : [ "CREATURE" ],
+          "dimensionId" : [ "minecraft:overworld" ],
+          "blockX" : [ -180, 38 ],
+          "blockY" : [ -63, "MAX" ],
+          "blockZ" : [ -450, -265 ]
+      }
+    },
+    {
+      "name" : "no pokemon in safari spawn",
+      "what" : "DISALLOW_SPAWN",
+      "when" : {
+          "category" : [ "CREATURE" ],
+          "dimensionId" : [ "solara_dimension:solara" ],
+          "blockX" : [ -268, -442 ],
+          "blockY" : [ -63, "MAX" ],
+          "blockZ" : [ -154, -315 ]
+      }
+    },
+    {
+      "name" : "no vanilla hostile mobs",
+      "what" : "DISALLOW_SPAWN",
+      "when" : {
+          "category" : [ "MONSTER" ]
+      }
+    }
+  ],
+
+  // If you're having trouble, change this to DEBUG or TRACE
+  // to output diagnostic information to debug.log.
+  "logLevel": "INFO"
+}
+

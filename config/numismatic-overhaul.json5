@@ -1,0 +1,31 @@
+{
+	// Whether villagers should use Numismatic currency for trading
+	"enableVillagerTrading": false,
+	// Whether Numismatic currency should be injected into the loot tables of loot chests
+	"generateCurrencyInChests": false,
+	// Where the notification for adding/removing money from the purse should be (requires rejoining to apply)
+	"moneyMessageLocation": "ACTIONBAR",
+	"purseOffsets": {
+		"survivalX": 0,
+		"survivalY": 0,
+		"creativeX": 0,
+		"creativeY": 0,
+		"merchantX": 0,
+		"merchantY": 0
+	},
+	"lootOptions": {
+		// Affects money gained from Desert Temple chests
+		"desertMinLoot": 10,
+		// Affects money gained from Desert Temple chests
+		"desertMaxLoot": 30,
+		// Affects money gained from Dungeon and Mineshaft chests
+		"dungeonMinLoot": 10,
+		// Affects money gained from Dungeon and Mineshaft chests
+		"dungeonMaxLoot": 30,
+		// Affects money gained from Bastion, Stronghold, Outpost and Buried Treasure chests
+		"structureMinLoot": 50,
+		"structureMaxLoot": 80,
+		"strongholdLibraryMinLoot": 100,
+		"strongholdLibraryMaxLoot": 200
+	}
+}

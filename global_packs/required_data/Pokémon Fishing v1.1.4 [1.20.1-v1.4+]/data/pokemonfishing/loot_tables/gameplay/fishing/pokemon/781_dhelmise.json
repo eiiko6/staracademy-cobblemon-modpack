@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:entity",
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:kelp",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:4150000,PokemonFishing:{PokemonID:781,Species:\"cobblemon:dhelmise\",Min_Level:23,Max_Level:55}}"
+						},
+						{
+							"function": "minecraft:set_lore",
+							"lore": [
+								{
+									"text": "Dhelmise got away...",
+									"color": "white",
+									"italic": false
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

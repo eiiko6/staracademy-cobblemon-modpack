@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:kimono_mew",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:kimono_mew",
+      "model": "cobblemon:kimono_mew.geo",
+      "texture": "cobblemon:textures/pokemon/kimono_mew/kimono_mew.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/kimono_mew/kimono_mew_shiny.png"
+    }
+  ]
+}

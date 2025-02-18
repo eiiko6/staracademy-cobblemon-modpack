@@ -1,0 +1,21 @@
+{
+	"bountiful.decree.bucketeer.name": "Bucketeering",
+	"bountiful.entry.catcher_obj_catch_bug": "Catch Bug Types",
+  "bountiful.entry.catcher_obj_catch_dark": "Catch Dark Types",
+  "bountiful.entry.catcher_obj_catch_dragon": "Catch Dragon Types",
+  "bountiful.entry.catcher_obj_catch_electric": "Catch Electric Types",
+  "bountiful.entry.catcher_obj_catch_fairy": "Catch Fairy Types",
+  "bountiful.entry.catcher_obj_catch_fighting": "Catch Fighting Types",
+  "bountiful.entry.catcher_obj_catch_fire": "Catch Fire Types",
+  "bountiful.entry.catcher_obj_catch_flying": "Catch Flying Types",
+  "bountiful.entry.catcher_obj_catch_ghost": "Catch Ghost Types",
+  "bountiful.entry.catcher_obj_catch_grass": "Catch Grass Types",
+  "bountiful.entry.catcher_obj_catch_ground": "Catch Ground Types",
+  "bountiful.entry.catcher_obj_catch_ice": "Catch Ice Types",
+  "bountiful.entry.catcher_obj_catch_normal": "Catch Normal Types",
+  "bountiful.entry.catcher_obj_catch_poison": "Catch Poison Types",
+  "bountiful.entry.catcher_obj_catch_psychic": "Catch Psychic Types",
+  "bountiful.entry.catcher_obj_catch_rock": "Catch Rock Types",
+  "bountiful.entry.catcher_obj_catch_steel": "Catch Steel Types",
+  "bountiful.entry.catcher_obj_catch_water": "Catch Water Types"
+}

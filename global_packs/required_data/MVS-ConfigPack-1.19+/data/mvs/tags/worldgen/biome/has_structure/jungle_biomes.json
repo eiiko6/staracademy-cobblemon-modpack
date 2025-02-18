@@ -1,0 +1,20 @@
+{
+  "replace": false,
+
+  "_comment": " This biome tag can specify the biome directly. Or specify another biome tag by starting with # ",
+  "values": [
+    "#minecraft:is_jungle",
+    "biomeswevegone:crag_gardens",
+    "biomeswevegone:fragment_jungle",
+    "biomeswevegone:jacaranda_jungle",
+    "biomeswevegone:tropical_rainforest",
+    {
+      "id": "byg:guiana_shield",
+      "required": false
+    },
+    {
+      "id": "byg:jacaranda_forest",
+      "required": false
+    }
+  ]
+}

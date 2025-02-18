@@ -1,0 +1,13 @@
+name = "MoreCobblemonTweaks"
+filename = "MoreCobblemonTweaks-0.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6878c9a8a3ec6e05de45fc1bc4d053d221f9c138"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5895525
+project-id = 1082538

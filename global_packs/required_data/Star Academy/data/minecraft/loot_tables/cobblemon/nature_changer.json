@@ -1,0 +1,141 @@
+{
+    "type": "loot_table",
+    "pools": [
+      {
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_adamant",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_bashful",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_bold",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_brave",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_calm",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_careful",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_docile",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_adamant",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_gentle",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_hardy",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_hasty",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_impish",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_jolly",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_lax",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_lonely",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_mild",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_modest",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_naive",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_naughty",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_quiet",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_quirky",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_rash",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_relaxed",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_sassy",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_serious",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:nature_changer_timid",
+            "weight": 1
+          }
+        ],
+        "rolls": 1.0
+      }
+    ]
+  }

@@ -1,0 +1,13 @@
+name = "Where Are My TMs [Fabric]"
+filename = "wherearemytms-2.1.2-hotfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "249fbe3a59bf1926b09be240b36b62b2df0094bd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4997907
+project-id = 923243

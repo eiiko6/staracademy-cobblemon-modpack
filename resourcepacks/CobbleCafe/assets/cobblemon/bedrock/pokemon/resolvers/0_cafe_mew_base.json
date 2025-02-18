@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:cafe_mew",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:cafe_mew",
+      "model": "cobblemon:cafe_mew.geo",
+      "texture": "cobblemon:textures/pokemon/cafe_mew/cafe_mew.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/cafe_mew/cafe_mew_shiny.png"
+    }
+  ]
+}

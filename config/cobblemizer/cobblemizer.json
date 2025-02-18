@@ -1,0 +1,106 @@
+{
+  "friendshipTiers": [
+    {
+      "name": "COMMON",
+      "increaseAmount": 5
+    },
+    {
+      "name": "UNCOMMON",
+      "increaseAmount": 10
+    },
+    {
+      "name": "RARE",
+      "increaseAmount": 20
+    },
+    {
+      "name": "EPIC",
+      "increaseAmount": 40
+    },
+    {
+      "name": "LEGENDARY",
+      "increaseAmount": 80
+    },
+    {
+      "name": "MAX",
+      "increaseAmount": 255
+    }
+  ],
+  "EVTiers": [
+    {
+      "name": "COMMON",
+      "increaseAmount": 10
+    },
+    {
+      "name": "UNCOMMON",
+      "increaseAmount": 20
+    },
+    {
+      "name": "RARE",
+      "increaseAmount": 40
+    },
+    {
+      "name": "EPIC",
+      "increaseAmount": 70
+    },
+    {
+      "name": "LEGENDARY",
+      "increaseAmount": 120
+    },
+    {
+      "name": "MAX",
+      "increaseAmount": 252
+    }
+  ],
+  "IVTiers": [
+    {
+      "name": "COMMON",
+      "increaseAmount": 1
+    },
+    {
+      "name": "UNCOMMON",
+      "increaseAmount": 2
+    },
+    {
+      "name": "RARE",
+      "increaseAmount": 4
+    },
+    {
+      "name": "EPIC",
+      "increaseAmount": 6
+    },
+    {
+      "name": "LEGENDARY",
+      "increaseAmount": 10
+    },
+    {
+      "name": "MAX",
+      "increaseAmount": 31
+    }
+  ],
+  "LVLTiers": [
+    {
+      "name": "COMMON",
+      "increaseAmount": 1
+    },
+    {
+      "name": "UNCOMMON",
+      "increaseAmount": 5
+    },
+    {
+      "name": "RARE",
+      "increaseAmount": 10
+    },
+    {
+      "name": "EPIC",
+      "increaseAmount": 15
+    },
+    {
+      "name": "LEGENDARY",
+      "increaseAmount": 25
+    },
+    {
+      "name": "MAX",
+      "increaseAmount": 100
+    }
+  ]
+}

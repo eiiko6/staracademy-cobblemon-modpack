@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:entity",
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:kelp",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:4150000,PokemonFishing:{PokemonID:120,Species:\"cobblemon:staryu\",Max_Level:24}}"
+						},
+						{
+							"function": "minecraft:set_lore",
+							"lore": [
+								{
+									"text": "Staryu got away...",
+									"color": "white",
+									"italic": false
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,1 @@
+effect give @s minecraft:water_breathing 030 0 true

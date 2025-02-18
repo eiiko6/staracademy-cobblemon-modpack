@@ -1,0 +1,12 @@
+{
+  "pointer": {
+    "x": 0.5,
+    "y": 0.5,
+    "size": 64,
+    "enabled": false,
+    "identifier": {
+      "field_13353": "cursorfolder",
+      "field_13355": "cursor2.png"
+    }
+  }
+}

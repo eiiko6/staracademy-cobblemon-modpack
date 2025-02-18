@@ -1,0 +1,13 @@
+name = "Solara Dimension"
+filename = "solara_dimension-0.1A-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6bdc1b1a6983c0c8a0bae77cd2188e07d32b89e9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5828352
+project-id = 1125254

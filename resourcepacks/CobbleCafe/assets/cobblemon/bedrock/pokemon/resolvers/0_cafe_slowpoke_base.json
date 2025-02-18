@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:cafe_slowpoke",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:cafe_slowpoke",
+      "model": "cobblemon:cafe_slowpoke.geo",
+      "texture": "cobblemon:textures/pokemon/cafe_slowpoke/cafe_slowpoke.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/cafe_slowpoke/cafe_slowpoke_shiny.png"
+    }
+  ]
+}

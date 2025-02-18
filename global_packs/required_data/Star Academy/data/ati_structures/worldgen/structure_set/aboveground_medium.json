@@ -1,0 +1,27 @@
+{
+  "structures": [
+    {
+      "structure": "ati_structures:dark_tower",
+      "weight": 1
+    },
+    {
+      "structure": "ati_structures:dojo",
+      "weight": 1
+    },
+    {
+      "structure": "ati_structures:monastery_tower",
+      "weight": 1
+    },
+    {
+      "structure": "ati_structures:small_keep",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 238479652,
+    "locate_offset": [0, 5, -5],
+    "spacing": 100,
+    "separation": 0
+  }
+}

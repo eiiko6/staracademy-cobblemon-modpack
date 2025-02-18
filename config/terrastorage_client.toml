@@ -1,0 +1,19 @@
+#Whether to display the options button in the storage screens
+#Default: true
+display_options_button = false
+#==========
+#Whether to protect hotbar items from the storage options
+#Default: true
+hotbar_protection = true
+#==========
+#The style of the storage option buttons
+#Default: DEFAULT
+buttons_style = "DEFAULT"
+#==========
+#The placement of the storage option buttons
+#Default: RIGHT
+buttons_placement = "RIGHT"
+#==========
+#The property by which items will be sorted
+#Default: ITEM_GROUP
+sort_type = "ITEM_GROUP"

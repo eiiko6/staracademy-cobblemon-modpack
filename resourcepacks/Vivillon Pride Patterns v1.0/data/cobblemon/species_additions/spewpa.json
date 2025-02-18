@@ -1,0 +1,197 @@
+{
+    "target": "cobblemon:spewpa",
+    "evolutions": [
+        {
+            "id": "spewpa_vivillon_prismatic",
+            "variant": "item_interact",
+            "result": "vivillon vivillon_wings=prismatic",
+            "consumeHeldItem": false,
+            "requiredContext": "minecraft:red_dye",
+            "learnableMoves": [
+                "gust"
+            ],
+            "requirements": [
+                {
+                    "variant": "level",
+                    "minLevel": 12
+                }
+            ]
+        },
+        {
+            "id": "spewpa_vivillon_minty",
+            "variant": "item_interact",
+            "result": "vivillon vivillon_wings=minty",
+            "consumeHeldItem": false,
+            "requiredContext": "minecraft:light_blue_dye",
+            "learnableMoves": [
+                "gust"
+            ],
+            "requirements": [
+                {
+                    "variant": "level",
+                    "minLevel": 12
+                }
+            ]
+        },
+        {
+            "id": "spewpa_vivillon_tangy",
+            "variant": "item_interact",
+            "result": "vivillon vivillon_wings=tangy",
+            "consumeHeldItem": false,
+            "requiredContext": "minecraft:orange_dye",
+            "learnableMoves": [
+                "gust"
+            ],
+            "requirements": [
+                {
+                    "variant": "level",
+                    "minLevel": 12
+                }
+            ]
+        },
+        {
+            "id": "spewpa_vivillon_ultraviolet",
+            "variant": "item_interact",
+            "result": "vivillon vivillon_wings=ultraviolet",
+            "consumeHeldItem": false,
+            "requiredContext": "minecraft:magenta_dye",
+            "learnableMoves": [
+                "gust"
+            ],
+            "requirements": [
+                {
+                    "variant": "level",
+                    "minLevel": 12
+                }
+            ]
+        },
+        {
+            "id": "spewpa_vivillon_toned",
+            "variant": "item_interact",
+            "result": "vivillon vivillon_wings=toned",
+            "consumeHeldItem": false,
+            "requiredContext": "minecraft:cyan_dye",
+            "learnableMoves": [
+                "gust"
+            ],
+            "requirements": [
+                {
+                    "variant": "level",
+                    "minLevel": 12
+                }
+            ]
+        },
+        {
+            "id": "spewpa_vivillon_twilight",
+            "variant": "item_interact",
+            "result": "vivillon vivillon_wings=twilight",
+            "consumeHeldItem": false,
+            "requiredContext": "minecraft:black_dye",
+            "learnableMoves": [
+                "gust"
+            ],
+            "requirements": [
+                {
+                    "variant": "level",
+                    "minLevel": 12
+                }
+            ]
+        },
+        {
+            "id": "spewpa_vivillon_pelopon",
+            "variant": "item_interact",
+            "result": "vivillon vivillon_wings=pelopon",
+            "consumeHeldItem": false,
+            "requiredContext": "minecraft:lime_dye",
+            "learnableMoves": [
+                "gust"
+            ],
+            "requirements": [
+                {
+                    "variant": "level",
+                    "minLevel": 12
+                }
+            ]
+        },
+        {
+            "id": "spewpa_vivillon_embroidered",
+            "variant": "item_interact",
+            "result": "vivillon vivillon_wings=embroidered",
+            "consumeHeldItem": false,
+            "requiredContext": "minecraft:pink_dye",
+            "learnableMoves": [
+                "gust"
+            ],
+            "requirements": [
+                {
+                    "variant": "level",
+                    "minLevel": 12
+                }
+            ]
+        },
+        {
+            "id": "spewpa_vivillon_monarch",
+            "variant": "item_interact",
+            "result": "vivillon vivillon_wings=monarch",
+            "consumeHeldItem": false,
+            "requiredContext": "minecraft:purple_dye",
+            "learnableMoves": [
+                "gust"
+            ],
+            "requirements": [
+                {
+                    "variant": "level",
+                    "minLevel": 12
+                }
+            ]
+        },
+        {
+            "id": "spewpa_vivillon_whorl",
+            "variant": "item_interact",
+            "result": "vivillon vivillon_wings=whorl",
+            "consumeHeldItem": false,
+            "requiredContext": "minecraft:blue_dye",
+            "learnableMoves": [
+                "gust"
+            ],
+            "requirements": [
+                {
+                    "variant": "level",
+                    "minLevel": 12
+                }
+            ]
+        },
+        {
+            "id": "spewpa_vivillon_null",
+            "variant": "item_interact",
+            "result": "vivillon vivillon_wings=null",
+            "consumeHeldItem": false,
+            "requiredContext": "minecraft:green_dye",
+            "learnableMoves": [
+                "gust"
+            ],
+            "requirements": [
+                {
+                    "variant": "level",
+                    "minLevel": 12
+                }
+            ]
+        },
+        {
+            "id": "spewpa_vivillon_ringed",
+            "variant": "item_interact",
+            "result": "vivillon vivillon_wings=ringed",
+            "consumeHeldItem": false,
+            "requiredContext": "minecraft:yellow_dye",
+            "learnableMoves": [
+                "gust"
+            ],
+            "requirements": [
+                {
+                    "variant": "level",
+                    "minLevel": 12
+                }
+            ]
+        }
+    ]
+}

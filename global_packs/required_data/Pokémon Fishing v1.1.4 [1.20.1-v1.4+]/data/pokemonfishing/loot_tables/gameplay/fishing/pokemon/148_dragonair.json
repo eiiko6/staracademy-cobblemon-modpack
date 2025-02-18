@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:entity",
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:kelp",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{CustomModelData:4150000,PokemonFishing:{PokemonID:148,Species:\"cobblemon:dragonair\",Min_Level:24,Max_Level:54}}"
+						},
+						{
+							"function": "minecraft:set_lore",
+							"lore": [
+								{
+									"text": "Dragonair got away...",
+									"color": "white",
+									"italic": false
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

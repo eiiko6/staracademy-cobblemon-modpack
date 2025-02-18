@@ -1,0 +1,10 @@
+{
+  "globalConfig": {
+    "version": "1.0.3",
+    "debugEnabled": false,
+    "cullSpawnerPokemonOnServerStop": true,
+    "showUnimplementedPokemonInGui": false,
+    "showFormsInGui": false
+  },
+  "spawners": []
+}

@@ -1,0 +1,17 @@
+{
+    "replace": true,
+
+	"content": {
+
+        "fisherman_obj_gold_nugs": {
+            "type": "item",
+            "content": "minecraft:gold_nugget",
+            "amount": {
+                "min": 4,
+                "max": 8
+            },
+            "unitWorth": 100
+        }
+
+	}
+}

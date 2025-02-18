@@ -1,0 +1,101 @@
+{
+    "type": "loot_table",
+    "pools": [
+      {
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:iv_add_sp_def_uncommon",
+            "weight": 6
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:iv_add_sp_def_rare",
+            "weight": 3
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:iv_add_sp_def_epic",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:iv_add_sp_atk_uncommon",
+            "weight": 6
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:iv_add_sp_atk_rare",
+            "weight": 3
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:iv_add_sp_atk_epic",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:iv_add_speed_uncommon",
+            "weight": 6
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:iv_add_speed_rare",
+            "weight": 3
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:iv_add_speed_epic",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:iv_add_atk_uncommon",
+            "weight": 6
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:iv_add_atk_rare",
+            "weight": 3
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:iv_add_atk_epic",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:iv_add_def_uncommon",
+            "weight": 6
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:iv_add_def_rare",
+            "weight": 3
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:iv_add_def_epic",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:iv_add_hp_uncommon",
+            "weight": 6
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:iv_add_hp_rare",
+            "weight": 3
+          },
+          {
+            "type": "minecraft:item",
+            "name": "cobblemizer:iv_add_hp_epic",
+            "weight": 1
+          }
+        ],
+        "rolls": 1.0
+      }
+    ]
+  }

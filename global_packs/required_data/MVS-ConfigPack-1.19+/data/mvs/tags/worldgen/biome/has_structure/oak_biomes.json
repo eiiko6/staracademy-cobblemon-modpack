@@ -1,0 +1,47 @@
+{
+  "replace": false,
+
+  "_comment": " This biome tag can specify the biome directly. Or specify another biome tag by starting with # ",
+  "values": [
+    "minecraft:forest",
+    "biomeswevegone:aspen_boreal",
+    "biomeswevegone:black_forest",
+    "biomeswevegone:canadian_shield",
+    "biomeswevegone:cika_woods",
+    "biomeswevegone:coniferous_forest",
+    "biomeswevegone:dacite_ridges",
+    "biomeswevegone:ebony_woods",
+    "biomeswevegone:enchanted_tangle",
+    "biomeswevegone:eroded_borealis",
+    "biomeswevegone:forgotten_forest",
+    "biomeswevegone:frosted_coniferous_forest",
+    "biomeswevegone:howling_peaks",
+    "biomeswevegone:orchard",
+    "biomeswevegone:overgrowth_woodlands",
+    "biomeswevegone:redwood_thicket",
+    "biomeswevegone:sakura_grove",
+    "biomeswevegone:skyrise_vale",
+    "biomeswevegone:weeping_witch_forest",
+    "biomeswevegone:zelkova_forest",
+    {
+      "id": "byg:firecracker_shrubland",
+      "required": false
+    },
+    {
+      "id": "byg:allium_fields",
+      "required": false
+    },
+    {
+      "id": "byg:red_oak_forest",
+      "required": false
+    },
+    {
+      "id": "byg:autumnal_forest",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:orchard",
+      "required": false
+    }
+  ]
+}

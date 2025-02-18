@@ -1,0 +1,96 @@
+[LootBeams]
+    common_shorter_beam = true
+    render_name_color = true
+    solid_beam = true
+    glowing_beam = true
+    beam_height = 1.5
+    render_beam = true
+    beam_y_offset = 0.5
+    beam_radius = 0.55
+    beam_alpha = 0.75
+    render_distance = 48.0
+    fade_distance = 48.0
+    require_on_ground = true
+    beam_fade_on_approach = false
+    render_rarity_color = true
+    white_center = true
+
+    [LootBeams.Particles]
+        trail_particles_invisible = true
+        spin_around_beam = true
+        trail_length = 30
+        particle_size = 0.25
+        particle_rare_only = true
+        trails = true
+        particle_texture = "lootbeams:glow"
+        trail_chance = 0.5
+        particle_count = 5.0
+        particle_random_y = true
+        trail_width = 0.2
+        particle_y_offset = 0.0
+        particle_direction_x = 0.0
+        particles = true
+        trail_frequency = 1
+        particle_use_constant_vertical_speed = false
+        particle_direction_z = 0.0
+        particle_direction_y = 1.0
+        particle_radius = 0.1
+        tick_per_particle_sprite_update = 1
+        randomness_intensity = 0.05
+        particle_color_mode = "overlay"
+        particle_random_size = true
+        particle_speed_y = 0.01
+        particle_speed_z = 0.2
+        particle_lifetime = 15
+        particle_speed = 0.2
+        particle_inherits_color = true
+        particle_speed_x = 0.2
+
+    [LootBeams.Presets]
+        selected_preset = ""
+
+    [LootBeams.Nametags]
+        worldspace_tooltips = true
+        borders = true
+        nametag_look_sensitivity = 0.018
+always_draw_rarities_on = [ "#minecrft:music_discs" ]
+        white_rarities = false
+        dmcloot_compat_rarity = true
+        advanced_tooltips = true
+        render_tooltips_in_third_person_view = true
+        render_stackcount = true
+        nametag_scale = 1.0
+        render_nametags = true
+        render_nametags_onlook = true
+        render_item_rarity = true
+        nametag_background_alpha = 0.5
+        vanilla_rarities = false
+        screen_tooltips_require_crouch = true
+        nametag_y_offset = 0.75
+custom_rarities = [  ]
+        combine_name_and_rarity = false
+        nametag_text_alpha = 1.0
+
+    [LootBeams.Items]
+        only_equipment = true
+        items_glow = false
+blacklist = [  ]
+        all_items = false
+whitelist = [  ]
+        only_rare = true
+color_overrides = [  ]
+
+    [LootBeams.GroundGlow]
+        glow_effect_alpha = 0.8
+        pulse_glow_min_radius = 0.5
+        pulse_glow_speed = 1.0
+        rotate_glow = false
+        pulse_glow = true
+        glow_effect = true
+        pulse_glow_min_alpha = 0.6
+        pulse_glow_max_radius = 0.625
+        glow_effect_texture = "lootbeams:glow"
+        pulse_glow_max_alpha = 0.8
+        glow_rotate_clockwise = true
+        glow_effect_radius = 0.5
+        glow_rotation_speed = 1.0

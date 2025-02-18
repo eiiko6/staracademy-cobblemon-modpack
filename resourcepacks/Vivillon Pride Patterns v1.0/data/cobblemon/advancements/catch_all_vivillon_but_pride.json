@@ -1,0 +1,121 @@
+{
+  "display": {
+    "icon": {
+      "item": "cobblemon:pokemon_model",
+      "nbt": "{\"species\":\"cobblemon:vivillon\",\"aspects\":[\"vivillon-wings-prismatic\"]}"
+    },
+    "title": {
+      "translate": "advancements.vivillon_pride.catch_all_vivillon_but_pride"
+    },
+    "description": {
+      "translate": "advancements.vivillon_pride.catch_all_vivillon_but_pride.description"
+    },
+    "frame": "challenge",
+    "hidden": true
+  },
+  "parent": "cobblemon:catch_all_vivillon",
+  "criteria": {
+    "prismatic": {
+      "trigger": "cobblemon:aspects_collected",
+      "conditions": {
+        "pokemon": "cobblemon:vivillon",
+        "aspects": ["vivillon-wings-prismatic"]
+      }
+    },
+    "minty": {
+      "trigger": "cobblemon:aspects_collected",
+      "conditions": {
+        "pokemon": "cobblemon:vivillon",
+        "aspects": ["vivillon-wings-minty"]
+      }
+    },
+    "tangy": {
+      "trigger": "cobblemon:aspects_collected",
+      "conditions": {
+        "pokemon": "cobblemon:vivillon",
+        "aspects": ["vivillon-wings-tangy"]
+      }
+    },
+    "ultraviolet": {
+      "trigger": "cobblemon:aspects_collected",
+      "conditions": {
+        "pokemon": "cobblemon:vivillon",
+        "aspects": ["vivillon-wings-ultraviolet"]
+      }
+    },
+    "toned": {
+      "trigger": "cobblemon:aspects_collected",
+      "conditions": {
+        "pokemon": "cobblemon:vivillon",
+        "aspects": ["vivillon-wings-toned"]
+      }
+    },
+    "twilight": {
+      "trigger": "cobblemon:aspects_collected",
+      "conditions": {
+        "pokemon": "cobblemon:vivillon",
+        "aspects": ["vivillon-wings-twilight"]
+      }
+    },
+    "pelopon": {
+      "trigger": "cobblemon:aspects_collected",
+      "conditions": {
+        "pokemon": "cobblemon:vivillon",
+        "aspects": ["vivillon-wings-pelopon"]
+      }
+    },
+    "embroidered": {
+      "trigger": "cobblemon:aspects_collected",
+      "conditions": {
+        "pokemon": "cobblemon:vivillon",
+        "aspects": ["vivillon-wings-embroidered"]
+      }
+    },
+    "monarch": {
+      "trigger": "cobblemon:aspects_collected",
+      "conditions": {
+        "pokemon": "cobblemon:vivillon",
+        "aspects": ["vivillon-wings-monarch"]
+      }
+    },
+    "whorl": {
+      "trigger": "cobblemon:aspects_collected",
+      "conditions": {
+        "pokemon": "cobblemon:vivillon",
+        "aspects": ["vivillon-wings-whorl"]
+      }
+    },
+    "null": {
+      "trigger": "cobblemon:aspects_collected",
+      "conditions": {
+        "pokemon": "cobblemon:vivillon",
+        "aspects": ["vivillon-wings-null"]
+      }
+    },
+    "ringed": {
+      "trigger": "cobblemon:aspects_collected",
+      "conditions": {
+        "pokemon": "cobblemon:vivillon",
+        "aspects": ["vivillon-wings-ringed"]
+      }
+    }
+  },
+  "requirements": [
+    ["prismatic"],
+    ["minty"],
+    ["tangy"],
+    ["ultraviolet"],
+    ["toned"],
+	  ["twilight"],
+    ["pelopon"],
+    ["embroidered"],
+    ["monarch"],
+    ["whorl"],
+    ["null"],
+    ["ringed"]
+  ],
+  "rewards": {
+    "experience": 100
+  },
+  "sends_telemetry_event": false
+}

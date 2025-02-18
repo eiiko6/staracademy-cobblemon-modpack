@@ -1,0 +1,13 @@
+name = "Cobblemon Interface"
+filename = "Cobblemon Interface v1.1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea5dcf1113c83410cb0fedd7e3ee5a28582aaa30"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5348273
+project-id = 860898

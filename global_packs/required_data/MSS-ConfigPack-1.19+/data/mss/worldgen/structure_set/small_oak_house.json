@@ -1,0 +1,18 @@
+{
+  "structures":[
+    {
+      "structure": "mss:small_oak_house",
+      "weight": 1
+    }
+  ],
+  "placement": {
+
+    "type": "mss:advanced_random_spread",
+
+    "salt": 226898754,
+
+    "spacing": 75,
+
+    "separation": 0
+  }
+}

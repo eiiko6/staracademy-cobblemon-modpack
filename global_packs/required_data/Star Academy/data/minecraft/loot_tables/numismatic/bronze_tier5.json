@@ -1,0 +1,32 @@
+{
+    "type": "loot_table",
+    "pools": [
+      {
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "numismatic-overhaul:money_bag",
+            "functions": [
+              {
+                "function": "academy:set_money_bag",
+                "bronze": {
+                  "type": "uniform",
+                  "min": 300,
+                  "max": 500
+                },
+                "combine": true
+              }
+            ]
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "name": "minecraft:air"
+          }
+        ],
+        "rolls": 1.0
+      }
+    ]
+  }

@@ -1,0 +1,85 @@
+{
+  "roll": {
+    "type": "constant",
+    "count": 1
+  },
+  "input1": {
+    "filter": "minecraft:emerald",
+    "count": {
+      "type": "constant",
+      "count": 10
+    }
+  },
+  "input2": {
+    "filter": "minecraft:diamond",
+    "count": {
+      "type": "constant",
+      "count": 10
+    }
+  },
+  "input3": {
+    "filter": "minecraft:iron_ingot",
+    "count": {
+      "type": "constant",
+      "count": 10
+    }
+  },
+  "output": [
+    {
+      "item": "oak_sapling",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1.0
+    },
+    {
+      "item": "spruce_sapling",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1.0
+    },
+    {
+      "item": "birch_sapling",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1.0
+    },
+    {
+      "item": "jungle_sapling",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1.0
+    },
+    {
+      "item": "acacia_sapling",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1.0
+    },
+    {
+      "item": "cherry_sapling",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1.0
+    },
+    {
+      "item": "dark_oak_sapling",
+      "count": {
+        "type": "constant",
+        "count": 1
+      },
+      "weight": 1.0
+    }
+  ]
+}

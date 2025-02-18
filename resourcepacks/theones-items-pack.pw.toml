@@ -1,0 +1,13 @@
+name = "Theone's Items Pack"
+filename = "Theone's Items Pack v0.8.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "faa0f5c9f6c415774b09a0f7f44c8ab83ef391f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5652526
+project-id = 928901

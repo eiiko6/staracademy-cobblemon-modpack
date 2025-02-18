@@ -1,0 +1,406 @@
+{
+    "type": "loot_table",
+    "pools": [
+      {
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:pokedoll_calyrex",
+            "weight": 28
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:pokedoll_ampharos",
+            "weight": 28
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:applin_basket",
+            "weight": 28
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:pokedoll_sableye",
+            "weight": 28
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:pokedoll_absol",
+            "weight": 28
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:pokedoll_ivysaur",
+            "weight": 28
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:magikarp_fishbowl",
+            "weight": 28
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:pokedoll_stonjourner",
+            "weight": 28
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:pokedoll_palossand",
+            "weight": 28
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:pokedoll_tropius",
+            "weight": 28
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:pokedoll_mimikyu",
+            "weight": 28
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:pokedoll_calyrex_animated",
+            "weight": 6
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:pokedoll_washing_machine",
+            "weight": 6
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:pokedoll_venusaur",
+            "weight": 6
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:pokedoll_blastoise",
+            "weight": 6
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:pokedoll_gengar",
+            "weight": 6
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:pokedoll_corviknight",
+            "weight": 6
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:pokedoll_gholdengo",
+            "weight": 6
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:pokedoll_netherite_gholdengo",
+            "weight": 6
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:pokedoll_kyogre",
+            "weight": 6
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:pokedoll_trevenant",
+            "weight": 6
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:pokedoll_marshadow",
+            "weight": 6
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:pokedoll_marshadow_zenith",
+            "weight": 6
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_bulbasaur",
+            "weight": 40
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_squirtle",
+            "weight": 40
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_charmander",
+            "weight": 40
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_smoliv",
+            "weight": 40
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_rellor",
+            "weight": 40
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_happiny",
+            "weight": 40
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_swinub",
+            "weight": 40
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_drifloon",
+            "weight": 40
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_rookidee",
+            "weight": 40
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_wailmer",
+            "weight": 40
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_rowlet",
+            "weight": 40
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_lickitung",
+            "weight": 24
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_mareep",
+            "weight": 24
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_dolliv",
+            "weight": 24
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_arboliva",
+            "weight": 24
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_wooper",
+            "weight": 24
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_gastly",
+            "weight": 24
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_sandygast",
+            "weight": 24
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_shellder",
+            "weight": 24
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_pumpkaboo",
+            "weight": 24
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_bellossom",
+            "weight": 24
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_bulbasaur_posed",
+            "weight": 12
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_flaaffy",
+            "weight": 12
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_snorlax",
+            "weight": 12
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_sentret",
+            "weight": 12
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_furret",
+            "weight": 12
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_munchlax",
+            "weight": 12
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_rabsca",
+            "weight": 12
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_wartortle",
+            "weight": 12
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_quagsire",
+            "weight": 12
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_corvisquire",
+            "weight": 12
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_eevee",
+            "weight": 12
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_cloyster",
+            "weight": 12
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_wailord",
+            "weight": 12
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_phantump",
+            "weight": 12
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_calyrex",
+            "weight": 4
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_ampharos",
+            "weight": 4
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_sableye",
+            "weight": 4
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_absol",
+            "weight": 4
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_ivysaur",
+            "weight": 4
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_stonjourner",
+            "weight": 4
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_palossand",
+            "weight": 4
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_tropius",
+            "weight": 4
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_mimikyu",
+            "weight": 4
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_calyrex_animated",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_washing_machine",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_venusaur",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_blastoise",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_gengar",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_corviknight",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_gholdengo",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_netherite_gholdengo",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_kyogre",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_trevenant",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_marshadow",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "pokeblocks:gigantic_pokedoll_marshadow_zenith",
+            "weight": 1
+          }
+        ],
+        "rolls": 1.0
+      }
+    ]
+  }

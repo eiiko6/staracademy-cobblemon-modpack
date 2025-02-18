@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "name": "minecraft:numismatic/bronze_tier0"
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 1.0,
+          "min": 1.0
+        }
+    }
+  ]
+}

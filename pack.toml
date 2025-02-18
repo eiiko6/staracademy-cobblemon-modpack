@@ -1,0 +1,12 @@
+name = "Cobblemon: Star Academy"
+version = "0.1.5.2 noworld"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "37785ba9568171d64059e8718198d323ebe3a3e4c0f49a02bb07edb483eaf45e"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.20.1"

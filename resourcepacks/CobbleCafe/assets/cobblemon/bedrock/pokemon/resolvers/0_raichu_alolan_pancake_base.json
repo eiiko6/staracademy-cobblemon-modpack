@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:raichu_alolan_pancake",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:raichu_alolan_pancake",
+      "model": "cobblemon:raichu_alolan_pancake.geo",
+      "texture": "cobblemon:textures/pokemon/raichu_alolan_pancake/raichu_alolan_pancake.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/raichu_alolan_pancake/raichu_alolan_pancake_shiny.png"
+    }
+  ]
+}

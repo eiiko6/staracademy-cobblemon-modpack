@@ -1,0 +1,31 @@
+{
+	"type": "minecraft:fishing",
+	"pools": [
+		{
+			"bonus_rolls": 0.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "cobblemon:peat_block"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "cobblemon:exp_candy_m"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "cobblemon:deep_sea_scale"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "cobblemon:deep_sea_tooth"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "cobblemon:lure_ball"
+				}
+			],
+			"rolls": 1.0
+		}
+	]
+}

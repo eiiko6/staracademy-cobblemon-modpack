@@ -1,0 +1,13 @@
+name = "Cobblemon Poképedia: Cobblepedia"
+filename = "Cobblepedia-Fabric-0.6.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "66f703398939fb0bb2ea7e46fed41d7fb86a8d7e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5772440
+project-id = 850946

@@ -1,0 +1,67 @@
+{
+	"replace": true,
+	"content": {
+
+		"all_rew_bronze_reward": {
+			"type": "item",
+            "rarity": "COMMON",
+			"content": "numismatic-overhaul:bronze_coin",
+			"amount": {
+				"min": 5,
+				"max": 10
+			},
+			"unitWorth": 1
+		},
+
+        "all_rew_bronze2_reward": {
+			"type": "item",
+            "rarity": "UNCOMMON",
+			"content": "numismatic-overhaul:bronze_coin",
+			"amount": {
+				"min": 10,
+				"max": 30
+			},
+			"unitWorth": 1,
+			"weightMult": 0.5
+		},
+
+        "all_rew_bronze3_reward": {
+			"type": "item",
+            "rarity": "RARE",
+			"content": "numismatic-overhaul:bronze_coin",
+			"amount": {
+				"min": 50,
+				"max": 80
+			},
+			"unitWorth": 1,
+			"weightMult": 0.3
+		},
+
+        "all_rew_silver_reward": {
+			"type": "item",
+            "rarity": "EPIC",
+			"content": "numismatic-overhaul:silver_coin",
+			"amount": {
+				"min": 2,
+				"max": 5
+			},
+			"unitWorth": 100,
+			"weightMult": 0.3
+		},
+
+        "all_rew_gold_reward": {
+			"type": "item",
+            "rarity": "LEGENDARY",
+			"content": "numismatic-overhaul:silver_coin",
+			"amount": {
+				"min": 8,
+				"max": 20
+			},
+			"unitWorth": 100,
+			"weightMult": 1
+		},
+    
+        "all_rew_prismarine_crystals": null
+
+	}
+}

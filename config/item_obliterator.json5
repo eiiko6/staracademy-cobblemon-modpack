@@ -1,0 +1,210 @@
+{
+  // -----------------------------------------------------------
+  //              Item Obliterator by ElocinDev
+  // -----------------------------------------------------------
+  //  
+  // How to add items?
+  //   - They are json strings, so you need to separate each
+  //     entry with a comma, except the last
+  //   - If you start an entry with !, it will be treated as a regular expression
+  //     Example: "!minecraft:.*_sword" to disable all swords
+  //  
+  // -----------------------------------------------------------
+  // Do not touch this
+  "configVersion": 2,
+  // -----------------------------------------------------------
+  // Items here will be unusable completely
+  //    Example: minecraft:diamond
+  "blacklisted_items": [
+    "examplemod:example_item",
+    "pokeblocks:poke_egg",
+    "pokeblocks:nickel",
+    "pokeblocks:dime",
+    "pokeblocks:poke_coin",
+    "pokeblocks:poke_egg",
+    "pokeblocks:poke_egg",
+    "pokeblocks:summer_raid_soul",
+    "pokeblocks:summer_token",
+    "waystones:mint_sharestone",
+    "waystones:peach_sharestone",
+    "waystones:periwinkle_sharestone",
+    "waystones:artichoke_sharestone",
+    "waystones:fuchsia_sharestone",
+    "waystones:vermilion_sharestone",
+    "waystones:shamrock_sharestone",
+    "waystones:indigo_sharestone",
+    "waystones:banana_sharestone",
+    "waystones:cerulean_sharestone",
+    "waystones:acorn_sharestone",
+    "waystones:mauve_sharestone",
+    "waystones:maroon_sharestone",
+    "waystones:grape_sharestone",
+    "waystones:navy_sharestone",
+    "waystones:sap_sharestone",
+    "waystones:amber_sharestone",
+    "waystones:sage_sharestone",
+    "waystones:velvet_sharestone",
+    "waystones:mold_sharestone",
+    "lootr:trophy",
+    "sculk_depths:crumbling_dirt",
+    "!sculk_depths:.*",
+    "pokeblocks:airuhsea_figurine",
+    "pokeblocks:damorgo_figurine",
+    "pokeblocks:doncheadle_figurine",
+    "pokeblocks:a09robert_figurine",
+    "pokeblocks:red_communism_figurine",
+    "pokeblocks:tropsic0_figurine",
+    "pokeblocks:mik_03_figurine",
+    "pokeblocks:pohello_figurine",
+    "pokeblocks:raid_pass",
+    "pokeblocks:raid_voucher",
+    "pokeblocks:radiant_voucher",
+    "pokeblocks:pokemon_trophy",
+    "!genshinstrument:.*",
+    "evenmoreinstruments:record_johnny",
+    "evenmoreinstruments:record_super_idol",
+    "evenmoreinstruments:record_oven_kid",
+    "evenmoreinstruments:record_sad_violin",
+    "evenmoreinstruments:record_rickroll",
+    "convenientdecor:mint_plastic_shovel",
+    "convenientdecor:peach_plastic_shovel",
+    "convenientdecor:periwinkle_plastic_shovel",
+    "convenientdecor:artichoke_plastic_shovel",
+    "convenientdecor:fuchsia_plastic_shovel",
+    "convenientdecor:vermilion_plastic_shovel",
+    "convenientdecor:shamrock_plastic_shovel",
+    "convenientdecor:indigo_plastic_shovel",
+    "convenientdecor:banana_plastic_shovel",
+    "convenientdecor:cerulean_plastic_shovel",
+    "convenientdecor:acorn_plastic_shovel",
+    "convenientdecor:mauve_plastic_shovel",
+    "convenientdecor:maroon_plastic_shovel",
+    "convenientdecor:grape_plastic_shovel",
+    "convenientdecor:navy_plastic_shovel",
+    "convenientdecor:sap_plastic_shovel",
+    "convenientdecor:amber_plastic_shovel",
+    "convenientdecor:sage_plastic_shovel",
+    "convenientdecor:velvet_plastic_shovel",
+    "convenientdecor:mold_plastic_shovel",
+    "convenientdecor:mint_umbrella",
+    "convenientdecor:peach_umbrella",
+    "convenientdecor:periwinkle_umbrella",
+    "convenientdecor:artichoke_umbrella",
+    "convenientdecor:fuchsia_umbrella",
+    "convenientdecor:vermilion_umbrella",
+    "convenientdecor:shamrock_umbrella",
+    "convenientdecor:indigo_umbrella",
+    "convenientdecor:banana_umbrella",
+    "convenientdecor:cerulean_umbrella",
+    "convenientdecor:acorn_umbrella",
+    "convenientdecor:mauve_umbrella",
+    "convenientdecor:maroon_umbrella",
+    "convenientdecor:grape_umbrella",
+    "convenientdecor:navy_umbrella",
+    "convenientdecor:sap_umbrella",
+    "convenientdecor:amber_umbrella",
+    "convenientdecor:sage_umbrella",
+    "convenientdecor:velvet_umbrella",
+    "convenientdecor:mold_umbrella",
+    "convenientdecor:mint_raincoat",
+    "convenientdecor:peach_raincoat",
+    "convenientdecor:periwinkle_raincoat",
+    "convenientdecor:artichoke_raincoat",
+    "convenientdecor:fuchsia_raincoat",
+    "convenientdecor:vermilion_raincoat",
+    "convenientdecor:shamrock_raincoat",
+    "convenientdecor:indigo_raincoat",
+    "convenientdecor:banana_raincoat",
+    "convenientdecor:cerulean_raincoat",
+    "convenientdecor:acorn_raincoat",
+    "convenientdecor:mauve_raincoat",
+    "convenientdecor:maroon_raincoat",
+    "convenientdecor:grape_raincoat",
+    "convenientdecor:navy_raincoat",
+    "convenientdecor:sap_raincoat",
+    "convenientdecor:amber_raincoat",
+    "convenientdecor:sage_raincoat",
+    "convenientdecor:velvet_raincoat",
+    "convenientdecor:mold_raincoat",
+    "convenientdecor:mint_rain_boots",
+    "convenientdecor:peach_rain_boots",
+    "convenientdecor:periwinkle_rain_boots",
+    "convenientdecor:artichoke_rain_boots",
+    "convenientdecor:fuchsia_rain_boots",
+    "convenientdecor:vermilion_rain_boots",
+    "convenientdecor:shamrock_rain_boots",
+    "convenientdecor:indigo_rain_boots",
+    "convenientdecor:banana_rain_boots",
+    "convenientdecor:cerulean_rain_boots",
+    "convenientdecor:acorn_rain_boots",
+    "convenientdecor:mauve_rain_boots",
+    "convenientdecor:maroon_rain_boots",
+    "convenientdecor:grape_rain_boots",
+    "convenientdecor:navy_rain_boots",
+    "convenientdecor:sap_rain_boots",
+    "convenientdecor:amber_rain_boots",
+    "convenientdecor:sage_rain_boots",
+    "convenientdecor:velvet_rain_boots",
+    "convenientdecor:mold_rain_boots",
+    "convenientdecor:mint_rain_hat",
+    "convenientdecor:peach_rain_hat",
+    "convenientdecor:periwinkle_rain_hat",
+    "convenientdecor:artichoke_rain_hat",
+    "convenientdecor:fuchsia_rain_hat",
+    "convenientdecor:vermilion_rain_hat",
+    "convenientdecor:shamrock_rain_hat",
+    "convenientdecor:indigo_rain_hat",
+    "convenientdecor:banana_rain_hat",
+    "convenientdecor:cerulean_rain_hat",
+    "convenientdecor:acorn_rain_hat",
+    "convenientdecor:mauve_rain_hat",
+    "convenientdecor:maroon_rain_hat",
+    "convenientdecor:grape_rain_hat",
+    "convenientdecor:navy_rain_hat",
+    "convenientdecor:sap_rain_hat",
+    "convenientdecor:amber_rain_hat",
+    "convenientdecor:sage_rain_hat",
+    "convenientdecor:velvet_rain_hat",
+    "convenientdecor:mold_rain_hat",
+    "!convenientdecor:.*_rain_hat",
+    "!convenientdecor:.*_plastic_shovel",
+    "!convenientdecor:.*_rain_boots",
+    "!convenientdecor:.*_raincoat",
+    "minecraft:elytra",
+    "cloudboots:golden_feather"
+  ],
+  // -----------------------------------------------------------
+  // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
+  // Use with caution! This is a very expensive operation and can cause lag if you have a lot of items blacklisted.
+  // 	
+  // 	 Example to disable a regeneration potion: Potion:"minecraft:regeneration"
+  // 	
+  // 	 You can also use regular expressions by starting the value with !
+  "blacklisted_nbt": [],
+  // -----------------------------------------------------------
+  // Items here will not be able to be right-clicked (Interact)
+  //    Example: minecraft:apple
+  "only_disable_interactions": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // Items here will not be able to be used to attack
+  //    Example: minecraft:diamond_sword
+  "only_disable_attacks": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // Items here will get their recipes disabled
+  // Keep in mind this already is applied to blacklisted items
+  "only_disable_recipes": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // If true, the mod will use a hashset to handle the blacklisted items
+  // This is a more optimized approach only if you have a lot of items blacklisted (20 or more is recommended)
+  // If you just have a small amount of items blacklisted, keep this false
+  //  
+  // [!] Enabling this will disable all regular expressions
+  // [!] Does not apply to NBT, only item blacklist / interaction / attack
+  "use_hashmap_optimizations": false
+}

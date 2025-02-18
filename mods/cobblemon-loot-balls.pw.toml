@@ -1,0 +1,13 @@
+name = "Cobblemon - Loot Balls"
+filename = "lootballs-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf21ab4a5a4437d8272bfa92047ccf516e32cf53"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5432390
+project-id = 1037611

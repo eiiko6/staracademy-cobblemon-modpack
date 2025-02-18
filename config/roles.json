@@ -1,0 +1,26 @@
+{
+  "admin": {
+    "level": 100,
+    "overrides": {
+      "name_decoration": {},
+      "permission_level": 4,
+      "command_feedback": true,
+      "commands": {
+        ".*": "allow"
+      }
+    }
+  },
+  "everyone": {
+    "overrides": {
+      "commands": {
+        "balance": "deny",
+		    "eco": "deny",
+		    "economy": "deny",
+		    "hunt": "allow",
+		    "ftbchunks": "deny",
+		    "ftblibrary": "deny",
+		    "ftbteams": "deny"
+      }
+    }
+  }
+}

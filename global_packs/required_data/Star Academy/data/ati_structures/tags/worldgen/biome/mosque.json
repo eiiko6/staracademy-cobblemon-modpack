@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:desert",
+        "biomeswevegone:atacama_outback",
+        "biomeswevegone:mojave_desert",
+        "biomeswevegone:windswept_desert"
+    ]
+}

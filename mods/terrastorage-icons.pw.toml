@@ -1,0 +1,13 @@
+name = "Terrastorage: Icons"
+filename = "terrastorageicons-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "87454b62228ac7f89d78cec9f3cca9e0eafdb60d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5793606
+project-id = 1117638

@@ -1,0 +1,301 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "name": "minecraft:numismatic/bronze_tier4"
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 1.0,
+          "min": 1.0
+        }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "weight": 1,
+          "name": "minecraft:cobblemon/cobblefood_loot_tier4"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:air"
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 1.0,
+          "min": 1.0
+        }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "weight": 1,
+          "name": "minecraft:cobblemon/mythsandlegends"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:air"
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 1.0,
+          "min": 1.0
+        }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "weight": 1,
+          "name": "minecraft:cobblemon/pokeblocks_tier4"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 8,
+          "name": "minecraft:air"
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 1.0,
+          "min": 1.0
+        }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "weight": 1,
+          "name": "minecraft:cobblemon/iv_add_tier3"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:air"
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 4.0,
+          "min": 1.0
+        }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "cobblemizer:shiny_swapper"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 100,
+          "name": "minecraft:air"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "cobblemizer:gender_swapper"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:air"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "cobblemizer:iv_random"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:air"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "cobblemizer:level_random"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:air"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "weight": 1,
+          "name": "minecraft:cobblemon/nature_changer"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:air"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "name": "minecraft:cobblemon/apricorn_ball_loot",
+          "weight": 29
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 3.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "cobblemon:dream_ball",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 6.0,
+                "min": 3.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "cobblemon:exp_candy_m",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 3.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "cobblemon:exp_candy_l",
+          "weight": 2
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 3.0,
+          "min": 1.0
+        }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "name": "minecraft:cobblemon/vitamin_loot",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 3.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "cobblemon:max_potion"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 2.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "cobblemon:revive"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:max_revive"
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 3.0,
+          "min": 2.0
+        }
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "loot_table",
+          "name": "minecraft:cobblemon/evo_item_loot"
+        }
+      ],
+      "rolls": {
+          "type": "minecraft:uniform",
+          "max": 1.0,
+          "min": 1.0
+        }
+    }
+  ],
+  "random_sequence": "minecraft:chests/ancient_city_ice_box"
+}

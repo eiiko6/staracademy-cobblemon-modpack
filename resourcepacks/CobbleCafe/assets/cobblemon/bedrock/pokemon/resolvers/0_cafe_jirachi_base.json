@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:cafe_jirachi",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:cafe_jirachi",
+      "model": "cobblemon:cafe_jirachi.geo",
+      "texture": "cobblemon:textures/pokemon/cafe_jirachi/cafe_jirachi.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "texture": "cobblemon:textures/pokemon/cafe_jirachi/cafe_jirachi_shiny.png"
+    }
+  ]
+}

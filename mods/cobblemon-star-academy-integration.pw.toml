@@ -1,0 +1,13 @@
+name = "Cobblemon: Star Academy Integration"
+filename = "staracademy-mc1.20.1-v1.0.0.130-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "08ac30f1864d46e4b7b2d31fa6c60b60f2bdff2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6096126
+project-id = 1175216

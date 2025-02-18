@@ -1,0 +1,44 @@
+{
+  "head": "head",
+  "portraitScale": 1.4,
+  "portraitTranslation": [-0.2,-0.2, 0],
+  "profileScale": 0.6,
+  "profileTranslation": [0, 0.9, 0],
+  "poses": {
+    "standing": {
+      "poseName": "standing",
+      "transformTicks": 10,
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "animations": ["look", "bedrock(cafe_fuecoco, ground_idle)"],
+      "isBattle": false,
+      "quirks": [
+        {
+          "name": "blink",
+          "loopTimes": 1,
+          "minSecondsBetweenOccurrences": 15,
+          "maxSecondsBetweenOccurrences": 30,
+          "animations": ["bedrock(cafe_fuecoco, blink)"]
+        }
+      ]
+    },
+    "walking": {
+      "poseName": "walking",
+      "transformTicks": 10,
+      "poseTypes": ["WALK"],
+      "animations": ["bedrock(cafe_fuecoco, ground_walk)"]
+    },
+    "floating": {
+      "poseName": "floating",
+      "transformTicks": 10,
+      "poseTypes": ["FLOAT"],
+      "animations": ["bedrock(cafe_fuecoco, ground_idle)"]
+    },
+    "battle": {
+      "poseName": "standing",
+      "transformTicks": 10,
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": ["bedrock(cafe_fuecoco, battle_idle)"]
+    }
+  }
+}

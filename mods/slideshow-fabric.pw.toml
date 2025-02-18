@@ -1,0 +1,13 @@
+name = "Slideshow(Fabric)"
+filename = "Slideshow-fabric-1.20.1-1.0.3-Enhancement-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "66e48b3b670b7df163242a57218811802c7cfbf3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5879309
+project-id = 1134625

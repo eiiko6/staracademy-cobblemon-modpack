@@ -1,0 +1,13 @@
+name = "Joe's Shader Toggle"
+filename = "shader-toggle-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42ea21e29491283a47c35c868e343e33e302f2c4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4782835
+project-id = 919643

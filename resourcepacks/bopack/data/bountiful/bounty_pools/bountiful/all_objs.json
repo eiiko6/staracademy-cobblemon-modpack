@@ -1,0 +1,2071 @@
+{
+	"replace": true,
+	"content": {
+
+        "c1": {
+            "type": "item",
+            "content": "cobblemon:blue_apricorn",
+            "amount": {
+                "min": 1,
+                "max": 32
+            },
+            "unitWorth": 1
+        },
+
+        "c2": {
+            "type": "item",
+            "content": "cobblemon:white_apricorn",
+            "amount": {
+                "min": 1,
+                "max": 32
+            },
+            "unitWorth": 1
+        },
+
+        "c3": {
+            "type": "item",
+            "content": "cobblemon:pink_apricorn",
+            "amount": {
+                "min": 1,
+                "max": 32
+            },
+            "unitWorth": 1
+        },
+
+        "c4": {
+            "type": "item",
+            "content": "cobblemon:black_apricorn",
+            "amount": {
+                "min": 1,
+                "max": 32
+            },
+            "unitWorth": 1
+        },
+
+        "c5": {
+            "type": "item",
+            "content": "cobblemon:red_apricorn",
+            "amount": {
+                "min": 1,
+                "max": 32
+            },
+            "unitWorth": 1
+        },
+
+        "c6": {
+            "type": "item",
+            "content": "cobblemon:yellow_apricorn",
+            "amount": {
+                "min": 1,
+                "max": 32
+            },
+            "unitWorth": 1
+        },
+
+        "c7": {
+            "type": "item",
+            "content": "cobblemon:green_apricorn",
+            "amount": {
+                "min": 1,
+                "max": 32
+            },
+            "unitWorth": 1
+        },
+
+        "c8": {
+            "type": "item",
+            "content": "cobblefoods:aprijuice",
+            "amount": {
+                "min": 1,
+                "max": 2
+            },
+            "unitWorth": 4
+        },
+
+        "u1": {
+            "type": "item",
+            "content": "cobblefoods:roasted_cheri_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u2": {
+            "type": "item",
+            "content": "cobblefoods:roasted_chesto_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u3": {
+            "type": "item",
+            "content": "cobblefoods:roasted_pecha_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u4": {
+            "type": "item",
+            "content": "cobblefoods:roasted_rawst_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u5": {
+            "type": "item",
+            "content": "cobblefoods:roasted_aspear_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u6": {
+            "type": "item",
+            "content": "cobblefoods:roasted_leppa_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u7": {
+            "type": "item",
+            "content": "cobblefoods:roasted_oran_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u8": {
+            "type": "item",
+            "content": "cobblefoods:roasted_persim_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u9": {
+            "type": "item",
+            "content": "cobblefoods:roasted_lum_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u10": {
+            "type": "item",
+            "content": "cobblefoods:roasted_sitrus_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u11": {
+            "type": "item",
+            "content": "cobblefoods:roasted_figy_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u12": {
+            "type": "item",
+            "content": "cobblefoods:roasted_wiki_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u13": {
+            "type": "item",
+            "content": "cobblefoods:roasted_mago_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u14": {
+            "type": "item",
+            "content": "cobblefoods:roasted_aguav_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u15": {
+            "type": "item",
+            "content": "cobblefoods:roasted_iapapa_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u16": {
+            "type": "item",
+            "content": "cobblefoods:roasted_razz_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u17": {
+            "type": "item",
+            "content": "cobblefoods:roasted_bluk_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u18": {
+            "type": "item",
+            "content": "cobblefoods:roasted_nanab_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u19": {
+            "type": "item",
+            "content": "cobblefoods:roasted_wepear_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u20": {
+            "type": "item",
+            "content": "cobblefoods:roasted_pinap_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u21": {
+            "type": "item",
+            "content": "cobblefoods:roasted_pomeg_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u22": {
+            "type": "item",
+            "content": "cobblefoods:roasted_kelpsy_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u23": {
+            "type": "item",
+            "content": "cobblefoods:roasted_qualot_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u24": {
+            "type": "item",
+            "content": "cobblefoods:roasted_hondew_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u25": {
+            "type": "item",
+            "content": "cobblefoods:roasted_grepa_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u26": {
+            "type": "item",
+            "content": "cobblefoods:roasted_tamato_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u27": {
+            "type": "item",
+            "content": "cobblefoods:roasted_cornn_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u28": {
+            "type": "item",
+            "content": "cobblefoods:roasted_magost_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u29": {
+            "type": "item",
+            "content": "cobblefoods:roasted_rabuta_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u30": {
+            "type": "item",
+            "content": "cobblefoods:roasted_nomel_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u31": {
+            "type": "item",
+            "content": "cobblefoods:roasted_spelon_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u32": {
+            "type": "item",
+            "content": "cobblefoods:roasted_pamtre_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u33": {
+            "type": "item",
+            "content": "cobblefoods:roasted_watmel_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u34": {
+            "type": "item",
+            "content": "cobblefoods:roasted_durin_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u35": {
+            "type": "item",
+            "content": "cobblefoods:roasted_belue_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u36": {
+            "type": "item",
+            "content": "cobblefoods:roasted_occa_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u37": {
+            "type": "item",
+            "content": "cobblefoods:roasted_passho_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u38": {
+            "type": "item",
+            "content": "cobblefoods:roasted_wacan_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u39": {
+            "type": "item",
+            "content": "cobblefoods:roasted_rindo_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u40": {
+            "type": "item",
+            "content": "cobblefoods:roasted_yache_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u41": {
+            "type": "item",
+            "content": "cobblefoods:roasted_chople_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u42": {
+            "type": "item",
+            "content": "cobblefoods:roasted_kebia_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u43": {
+            "type": "item",
+            "content": "cobblefoods:roasted_shuca_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u44": {
+            "type": "item",
+            "content": "cobblefoods:roasted_coba_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u45": {
+            "type": "item",
+            "content": "cobblefoods:roasted_payapa_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u46": {
+            "type": "item",
+            "content": "cobblefoods:roasted_tanga_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u47": {
+            "type": "item",
+            "content": "cobblefoods:roasted_charti_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u48": {
+            "type": "item",
+            "content": "cobblefoods:roasted_kasib_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u49": {
+            "type": "item",
+            "content": "cobblefoods:roasted_haban_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u50": {
+            "type": "item",
+            "content": "cobblefoods:roasted_colbur_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u51": {
+            "type": "item",
+            "content": "cobblefoods:roasted_babiri_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u52": {
+            "type": "item",
+            "content": "cobblefoods:roasted_chilan_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u53": {
+            "type": "item",
+            "content": "cobblefoods:roasted_liechi_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u54": {
+            "type": "item",
+            "content": "cobblefoods:roasted_ganlon_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u55": {
+            "type": "item",
+            "content": "cobblefoods:roasted_salac_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u56": {
+            "type": "item",
+            "content": "cobblefoods:roasted_petaya_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u57": {
+            "type": "item",
+            "content": "cobblefoods:roasted_apicot_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u58": {
+            "type": "item",
+            "content": "cobblefoods:roasted_lansat_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u59": {
+            "type": "item",
+            "content": "cobblefoods:roasted_starf_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u60": {
+            "type": "item",
+            "content": "cobblefoods:roasted_enigma_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u61": {
+            "type": "item",
+            "content": "cobblefoods:roasted_micle_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u62": {
+            "type": "item",
+            "content": "cobblefoods:roasted_custap_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u63": {
+            "type": "item",
+            "content": "cobblefoods:roasted_jaboca_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u64": {
+            "type": "item",
+            "content": "cobblefoods:roasted_rowap_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u65": {
+            "type": "item",
+            "content": "cobblefoods:roasted_roseli_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u66": {
+            "type": "item",
+            "content": "cobblefoods:roasted_kee_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u67": {
+            "type": "item",
+            "content": "cobblefoods:roasted_maranga_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u68": {
+            "type": "item",
+            "content": "cobblefoods:roasted_hopo_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u69": {
+            "type": "item",
+            "content": "cobblefoods:roasted_touga_berry",
+            "amount": {
+                "min": 1,
+                "max": 5
+            },
+            "unitWorth": 6
+        },
+
+        "u70": {
+            "type": "item",
+            "content": "cobblefoods:cheri_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u71": {
+            "type": "item",
+            "content": "cobblefoods:chesto_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u72": {
+            "type": "item",
+            "content": "cobblefoods:pecha_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u73": {
+            "type": "item",
+            "content": "cobblefoods:rawst_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u74": {
+            "type": "item",
+            "content": "cobblefoods:aspear_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u75": {
+            "type": "item",
+            "content": "cobblefoods:leppa_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u76": {
+            "type": "item",
+            "content": "cobblefoods:oran_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u77": {
+            "type": "item",
+            "content": "cobblefoods:persim_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u78": {
+            "type": "item",
+            "content": "cobblefoods:lum_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u79": {
+            "type": "item",
+            "content": "cobblefoods:sitrus_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u80": {
+            "type": "item",
+            "content": "cobblefoods:figy_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u81": {
+            "type": "item",
+            "content": "cobblefoods:wiki_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u82": {
+            "type": "item",
+            "content": "cobblefoods:mago_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u83": {
+            "type": "item",
+            "content": "cobblefoods:aguav_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u84": {
+            "type": "item",
+            "content": "cobblefoods:iapapa_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u85": {
+            "type": "item",
+            "content": "cobblefoods:razz_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u86": {
+            "type": "item",
+            "content": "cobblefoods:bluk_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u87": {
+            "type": "item",
+            "content": "cobblefoods:nanab_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u88": {
+            "type": "item",
+            "content": "cobblefoods:wepear_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u89": {
+            "type": "item",
+            "content": "cobblefoods:pinap_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u90": {
+            "type": "item",
+            "content": "cobblefoods:pomeg_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u91": {
+            "type": "item",
+            "content": "cobblefoods:kelpsy_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u92": {
+            "type": "item",
+            "content": "cobblefoods:qualot_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u93": {
+            "type": "item",
+            "content": "cobblefoods:hondew_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u94": {
+            "type": "item",
+            "content": "cobblefoods:grepa_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u95": {
+            "type": "item",
+            "content": "cobblefoods:tamato_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u96": {
+            "type": "item",
+            "content": "cobblefoods:cornn_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u97": {
+            "type": "item",
+            "content": "cobblefoods:magost_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u98": {
+            "type": "item",
+            "content": "cobblefoods:rabuta_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u99": {
+            "type": "item",
+            "content": "cobblefoods:nomel_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u100": {
+            "type": "item",
+            "content": "cobblefoods:spelon_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u101": {
+            "type": "item",
+            "content": "cobblefoods:pamtre_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u102": {
+            "type": "item",
+            "content": "cobblefoods:watmel_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u103": {
+            "type": "item",
+            "content": "cobblefoods:durin_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u104": {
+            "type": "item",
+            "content": "cobblefoods:belue_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u105": {
+            "type": "item",
+            "content": "cobblefoods:occa_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u106": {
+            "type": "item",
+            "content": "cobblefoods:passho_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u107": {
+            "type": "item",
+            "content": "cobblefoods:wacan_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u108": {
+            "type": "item",
+            "content": "cobblefoods:rindo_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u109": {
+            "type": "item",
+            "content": "cobblefoods:yache_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u110": {
+            "type": "item",
+            "content": "cobblefoods:chople_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u111": {
+            "type": "item",
+            "content": "cobblefoods:kebia_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u112": {
+            "type": "item",
+            "content": "cobblefoods:shuca_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u113": {
+            "type": "item",
+            "content": "cobblefoods:coba_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u114": {
+            "type": "item",
+            "content": "cobblefoods:payapa_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u115": {
+            "type": "item",
+            "content": "cobblefoods:tanga_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u116": {
+            "type": "item",
+            "content": "cobblefoods:charti_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u117": {
+            "type": "item",
+            "content": "cobblefoods:kasib_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u118": {
+            "type": "item",
+            "content": "cobblefoods:haban_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u119": {
+            "type": "item",
+            "content": "cobblefoods:colbur_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u120": {
+            "type": "item",
+            "content": "cobblefoods:babiri_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u121": {
+            "type": "item",
+            "content": "cobblefoods:chilan_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u122": {
+            "type": "item",
+            "content": "cobblefoods:liechi_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u123": {
+            "type": "item",
+            "content": "cobblefoods:ganlon_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u124": {
+            "type": "item",
+            "content": "cobblefoods:salac_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u125": {
+            "type": "item",
+            "content": "cobblefoods:petaya_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u126": {
+            "type": "item",
+            "content": "cobblefoods:apicot_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u127": {
+            "type": "item",
+            "content": "cobblefoods:lansat_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u128": {
+            "type": "item",
+            "content": "cobblefoods:starf_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u129": {
+            "type": "item",
+            "content": "cobblefoods:enigma_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u130": {
+            "type": "item",
+            "content": "cobblefoods:micle_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u131": {
+            "type": "item",
+            "content": "cobblefoods:custap_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u132": {
+            "type": "item",
+            "content": "cobblefoods:jaboca_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u133": {
+            "type": "item",
+            "content": "cobblefoods:rowap_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u134": {
+            "type": "item",
+            "content": "cobblefoods:roseli_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u135": {
+            "type": "item",
+            "content": "cobblefoods:kee_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u136": {
+            "type": "item",
+            "content": "cobblefoods:maranga_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u137": {
+            "type": "item",
+            "content": "cobblefoods:hopo_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u138": {
+            "type": "item",
+            "content": "cobblefoods:touga_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "u139": {
+            "type": "item",
+            "content": "cobblefoods:mixed_berry_juice",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 12
+        },
+
+        "r1": {
+            "type": "item",
+            "content": "cobblefoods:vaporeons_island_paradise",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 30
+        },
+
+        "r2": {
+            "type": "item",
+            "content": "cobblefoods:jolteons_sour_shock",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 30
+        },
+
+        "r3": {
+            "type": "item",
+            "content": "cobblefoods:flareons_burning_tamato_berries",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 30
+        },
+
+        "r4": {
+            "type": "item",
+            "content": "cobblefoods:espeons_sunkissed_cheri_berries",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 30
+        },
+
+        "r5": {
+            "type": "item",
+            "content": "cobblefoods:umbreons_moonlit_bluk_berries",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 30
+        },
+
+        "r6": {
+            "type": "item",
+            "content": "cobblefoods:leafeons_healty_nature_mix",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 30
+        },
+
+        "r7": {
+            "type": "item",
+            "content": "cobblefoods:glaceons_minty_rawst_berries",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 30
+        },
+
+        "r8": {
+            "type": "item",
+            "content": "cobblefoods:sylveons_roseli_berry_swirl",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 30
+        },
+
+        "r9": {
+            "type": "item",
+            "content": "cobblefoods:red_apricorn_milk_tea",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 30
+        },
+
+        "r10": {
+            "type": "item",
+            "content": "cobblefoods:yellow_apricorn_milk_tea",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 30
+        },
+
+        "r11": {
+            "type": "item",
+            "content": "cobblefoods:green_apricorn_milk_tea",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 30
+        },
+
+        "r12": {
+            "type": "item",
+            "content": "cobblefoods:blue_apricorn_milk_tea",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 30
+        },
+
+        "r13": {
+            "type": "item",
+            "content": "cobblefoods:pink_apricorn_milk_tea",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 30
+        },
+
+        "r14": {
+            "type": "item",
+            "content": "cobblefoods:enigmatic_apricorn_milk_tea",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 30
+        },
+
+        "r15": {
+            "type": "item",
+            "content": "cobblefoods:alolan_smoked_pinap",
+            "amount": {
+                "min": 4,
+                "max": 20
+            },
+            "unitWorth": 8
+        },
+
+        "r16": {
+            "type": "item",
+            "content": "cobblefoods:cavern_mushroom_quiche",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 30
+        },
+
+        "r17": {
+            "type": "item",
+            "content": "cobblefoods:chocolate_nanab_berry",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 30
+        },
+
+        "r18": {
+            "type": "item",
+            "content": "cobblefoods:cornn_berry_popcorn",
+            "amount": {
+                "min": 2,
+                "max": 10
+            },
+            "unitWorth": 16
+        },
+
+        "r19": {
+            "type": "item",
+            "content": "cobblefoods:crimson_cocktail",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 30
+        },
+
+        "r20": {
+            "type": "item",
+            "content": "cobblefoods:desert_delight_cocktail",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 30
+        },
+
+        "r21": {
+            "type": "item",
+            "content": "cobblefoods:forest_berry_medley",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 30
+        },
+
+        "r22": {
+            "type": "item",
+            "content": "cobblefoods:frosty_fruit_pudding",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 30
+        },
+
+        "r23": {
+            "type": "item",
+            "content": "cobblefoods:harvest_pie",
+            "amount": {
+                "min": 1,
+                "max": 1
+            },
+            "unitWorth": 30
+        },
+
+        "r24": {
+            "type": "item",
+            "content": "cobblefoods:jungle_nanab_cookies",
+            "amount": {
+                "min": 4,
+                "max": 20
+            },
+            "unitWorth": 8
+        },
+
+        "r25": {
+            "type": "item",
+            "content": "cobblefoods:kalosian_thunderstruck_macaron",
+            "amount": {
+                "min": 5,
+                "max": 25
+            },
+            "unitWorth": 7
+        },
+
+        "r26": {
+            "type": "item",
+            "content": "cobblefoods:mountain_wyvern_crepe",
+            "amount": {
+                "min": 2,
+                "max": 10
+            },
+            "unitWorth": 16
+        },
+
+        "r27": {
+            "type": "item",
+            "content": "cobblefoods:oran_berry_chicken",
+            "amount": {
+                "min": 1,
+                "max": 10
+            },
+            "unitWorth": 30
+        },
+
+        "r28": {
+            "type": "item",
+            "content": "cobblefoods:tropical_custard",
+            "amount": {
+                "min": 1,
+                "max": 10
+            },
+            "unitWorth": 30
+        },
+
+        "e1": {
+            "type": "item",
+            "content": "cobblefoods:roasted_silver_razz_berry",
+            "amount": {
+                "min": 1,
+                "max": 3
+            },
+            "unitWorth": 50
+        },
+
+        "e2": {
+            "type": "item",
+            "content": "cobblefoods:roasted_silver_nanab_berry",
+            "amount": {
+                "min": 1,
+                "max": 3
+            },
+            "unitWorth": 50
+        },
+
+        "e3": {
+            "type": "item",
+            "content": "cobblefoods:roasted_silver_pinap_berry",
+            "amount": {
+                "min": 1,
+                "max": 3
+            },
+            "unitWorth": 50
+        },
+
+        "e4": {
+            "type": "item",
+            "content": "cobblefoods:roasted_golden_razz_berry",
+            "amount": {
+                "min": 1,
+                "max": 3
+            },
+            "unitWorth": 50
+        },
+
+        "e5": {
+            "type": "item",
+            "content": "cobblefoods:roasted_golden_nanab_berry",
+            "amount": {
+                "min": 1,
+                "max": 3
+            },
+            "unitWorth": 50
+        },
+
+        "e6": {
+            "type": "item",
+            "content": "cobblefoods:roasted_golden_pinap_berry",
+            "amount": {
+                "min": 1,
+                "max": 3
+            },
+            "unitWorth": 50
+        },
+
+        "l1": {
+            "type": "item",
+            "content": "cobblefoods:silver_platter",
+            "amount": {
+                "min": 1,
+                "max": 6
+            },
+            "unitWorth": 80
+        },
+
+        "l2": {
+            "type": "item",
+            "content": "cobblefoods:golden_delicacy",
+            "amount": {
+                "min": 1,
+                "max": 6
+            },
+            "unitWorth": 100
+        },
+
+        "catcher_obj_catch_bug": {
+            "type": "criteria",
+      "icon": "cobblemon:nest_ball",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": {
+        "type": "bug"
+      },
+      "amount": {
+        "min": 1,
+        "max": 8
+      },
+      "unitWorth": 5
+    },
+    "catcher_obj_catch_dark": {
+      "type": "criteria",
+      "icon": "cobblemon:ancient_heavy_ball",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": {
+        "type": "dark"
+      },
+      "amount": {
+        "min": 1,
+        "max": 8
+      },
+      "unitWorth": 5
+    },
+    "catcher_obj_catch_dragon": {
+      "type": "criteria",
+      "icon": "cobblemon:lure_ball",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": {
+        "type": "dragon"
+      },
+      "amount": {
+        "min": 1,
+        "max": 8
+      },
+      "unitWorth": 5
+    },
+    "catcher_obj_catch_electric": {
+      "type": "criteria",
+      "icon": "cobblemon:ultra_ball",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": {
+        "type": "electric"
+      },
+      "amount": {
+        "min": 1,
+        "max": 8
+      },
+      "unitWorth": 5
+    },
+    "catcher_obj_catch_fairy": {
+      "type": "criteria",
+      "icon": "cobblemon:love_ball",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": {
+        "type": "fairy"
+      },
+      "amount": {
+        "min": 1,
+        "max": 8
+      },
+      "unitWorth": 5
+    },
+    "catcher_obj_catch_fighting": {
+      "type": "criteria",
+      "icon": "cobblemon:level_ball",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": {
+        "type": "fighting"
+      },
+      "amount": {
+        "min": 1,
+        "max": 8
+      },
+      "unitWorth": 5
+    },
+    "catcher_obj_catch_fire": {
+      "type": "criteria",
+      "icon": "cobblemon:fast_ball",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": {
+        "type": "fire"
+      },
+      "amount": {
+        "min": 1,
+        "max": 8
+      },
+      "unitWorth": 5
+    },
+    "catcher_obj_catch_flying": {
+      "type": "criteria",
+      "icon": "cobblemon:quick_ball",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": {
+        "type": "flying"
+      },
+      "amount": {
+        "min": 1,
+        "max": 8
+      },
+      "unitWorth": 5
+    },
+    "catcher_obj_catch_ghost": {
+      "type": "criteria",
+      "icon": "cobblemon:slate_ball",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": {
+        "type": "ghost"
+      },
+      "amount": {
+        "min": 1,
+        "max": 8
+      },
+      "unitWorth": 5
+    },
+    "catcher_obj_catch_grass": {
+      "type": "criteria",
+      "icon": "cobblemon:park_ball",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": {
+        "type": "grass"
+      },
+      "amount": {
+        "min": 1,
+        "max": 8
+      },
+      "unitWorth": 5
+    },
+    "catcher_obj_catch_ground": {
+      "type": "criteria",
+      "icon": "cobblemon:ancient_citrine_ball",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": {
+        "type": "ground"
+      },
+      "amount": {
+        "min": 1,
+        "max": 8
+      },
+      "unitWorth": 5
+    },
+    "catcher_obj_catch_ice": {
+      "type": "criteria",
+      "icon": "cobblemon:dive_ball",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": {
+        "type": "ice"
+      },
+      "amount": {
+        "min": 1,
+        "max": 8
+      },
+      "unitWorth": 5
+    },
+    "catcher_obj_catch_normal": {
+      "type": "criteria",
+      "icon": "cobblemon:poke_ball",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": {
+        "type": "normal"
+      },
+      "amount": {
+        "min": 1,
+        "max": 8
+      },
+      "unitWorth": 5
+    },
+    "catcher_obj_catch_poison": {
+      "type": "criteria",
+      "icon": "cobblemon:dream_ball",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": {
+        "type": "poison"
+      },
+      "amount": {
+        "min": 1,
+        "max": 8
+      },
+      "unitWorth": 5
+    },
+    "catcher_obj_catch_psychic": {
+      "type": "criteria",
+      "icon": "cobblemon:heal_ball",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": {
+        "type": "psychic"
+      },
+      "amount": {
+        "min": 1,
+        "max": 8
+      },
+      "unitWorth": 5
+    },
+    "catcher_obj_catch_rock": {
+      "type": "criteria",
+      "icon": "cobblemon:ancient_slate_ball",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": {
+        "type": "rock"
+      },
+      "amount": {
+        "min": 1,
+        "max": 8
+      },
+      "unitWorth": 5
+    },
+    "catcher_obj_catch_steel": {
+      "type": "criteria",
+      "icon": "cobblemon:ancient_ivory_ball",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": {
+        "type": "steel"
+      },
+      "amount": {
+        "min": 1,
+        "max": 8
+      },
+      "unitWorth": 5
+    },
+    "catcher_obj_catch_water": {
+      "type": "criteria",
+      "icon": "cobblemon:azure_ball",
+      "content": "cobblemon:catch_pokemon",
+      "conditions": {
+        "type": "water"
+      },
+      "amount": {
+        "min": 1,
+        "max": 8
+      },
+      "unitWorth": 5
+    }
+
+	}
+}

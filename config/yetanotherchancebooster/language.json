@@ -1,0 +1,7 @@
+{
+  "boostEndedMessage": "%s has ended",
+  "boostStartedMessage": "%s with amplifier %.2f has started and will last for %s (source: %s)",
+  "shiny": "Shiny ->",
+  "species": "Species ->",
+  "labels": "Labels ->"
+}

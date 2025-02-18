@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "lootbags:loot_bag",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{ Loot:\"resourcefullootbags:lootbags/gacha\", Name:\"Legendary Gacha\", Color:13013136, Type:\"EPIC\"}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
