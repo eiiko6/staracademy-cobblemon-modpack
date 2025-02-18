@@ -29751,11 +29751,6 @@ hash = "14ef2d3624489c3d2b9fd3311b436d030fa5779e49f9a5662f910ff39d196221"
 metafile = true
 
 [[files]]
-file = "resourcepacks/smooth-font.pw.toml"
-hash = "e36964ead5faa5871102653cc91f9a2bfa444bdafaf5b594d9f5083502982b43"
-metafile = true
-
-[[files]]
 file = "resourcepacks/theones-items-pack.pw.toml"
 hash = "42cbb523f51a513ca1b5f96571f6134b60f93ae5dc2aadd41111cc55843d078d"
 metafile = true
